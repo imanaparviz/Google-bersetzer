@@ -134,10 +134,6 @@ export default function GoogleTranslate() {
             {/* Source Languages - Left Column */}
             <div className="flex items-center gap-2 justify-start">
               <button className="flex items-center gap-2 px-3 py-2 rounded bg-gray-50 cursor-pointer text-sm text-blue-600 hover:bg-blue-50 transition-colors">
-                <span>Sprache erkennen</span>
-                <ChevronDown className="w-4 h-4" />
-              </button>
-              <button className="flex items-center gap-2 px-3 py-2 rounded bg-gray-50 cursor-pointer text-sm text-blue-600 hover:bg-blue-50 transition-colors">
                 <span>Deutsch</span>
                 <ChevronDown className="w-4 h-4" />
               </button>
