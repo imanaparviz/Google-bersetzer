@@ -1,0 +1,2332 @@
+
+    {
+      "id": 82,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Javascript Code einbetten",
+      "question": "Mit welchem Attribut wird der Ort einer externen Javascript Datei angegeben?",
+      "antwort": ""
+    },
+    {
+      "id": 83,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Javascript Code einbetten",
+      "question": "Wie wird Javascript in eine HTML Seite eingebettet?",
+      "antwort": ""
+    },
+    {
+      "id": 84,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Javascript Code einbetten",
+      "question": "Warum wird Javascript Code eher am Ende des <body> Elements eingebunden?",
+      "antwort": ""
+    },
+    {
+      "id": 85,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Javascript Code einbetten",
+      "question": "Mit welchem Befehl kann der Text „Hallo Welt“ ausgegeben werden?",
+      "antwort": ""
+    },
+    {
+      "id": 86,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Javascript Code einbetten",
+      "question": "Wie werden Kommentare in Javascript geschrieben?",
+      "antwort": ""
+    },
+    {
+      "id": 127,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM (Manipulation, Traversing)",
+      "question": "Wie können HTML Elemente im DOM mit Javascript angesprochen werden?",
+      "antwort": ""
+    },
+    {
+      "id": 128,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM (Manipulation, Traversing)",
+      "question": "Mit welchem Statement erhält man alle Elemente mit der Klasse „c“?",
+      "antwort": ""
+    },
+    {
+      "id": 129,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM (Manipulation, Traversing)",
+      "question": "Wie ändern Sie den Inhalt des Elements container?\nlet container = document.getElementById( 'container' );",
+      "antwort": ""
+    },
+    {
+      "id": 130,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM (Manipulation, Traversing)",
+      "question": "Wie kann die Klasse „c” dem Element „container“ gegeben werden?\nlet container = document.getElementById('container' );",
+      "antwort": ""
+    },
+    {
+      "id": 131,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM (Manipulation, Traversing)",
+      "question": "Wie erhalten Sie das Elternelement eines Elements “el”?\nlet el = document.getElementById( 'meinElement'  );",
+      "antwort": ""
+    },
+    {
+      "id": 132,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM Elemente erzeugen",
+      "question": "Wie erzeugen Sie ein neues HTML-Element im „container“ mit JavaScript?\nlet container = document.getElementById( 'container' );",
+      "antwort": ""
+    },
+    {
+      "id": 133,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM Elemente erzeugen",
+      "question": "Wie fügen Sie ein neues Element „neu“ in ein bestehendes Element „container“ ein?\nlet container = document.getElementById( 'container'  );\nlet neu = document.createElement( 'div'  );",
+      "antwort": ""
+    },
+    {
+      "id": 134,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM Elemente erzeugen",
+      "question": "Wie kann in JavaScript ein neues <img> erzeugt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 135,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM Elemente erzeugen",
+      "question": "Wofür wird die Methode createElementNS benötigt?",
+      "antwort": ""
+    },
+    {
+      "id": 136,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "DOM Elemente erzeugen",
+      "question": "Wofür kann die Methode insertBefore genutzt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 137,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Navigator und Location-Objekt",
+      "question": "Welche Werte finden sich im Navigator-Objekt?",
+      "antwort": ""
+    },
+    {
+      "id": 138,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Navigator und Location-Objekt",
+      "question": "Was liefert die Eigenschaft navigator.geolocation?",
+      "antwort": ""
+    },
+    {
+      "id": 139,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Navigator und Location-Objekt",
+      "question": "Mit welcher Eigenschaft könnte man den verwendeten Browser herausfinden?",
+      "antwort": ""
+    },
+    {
+      "id": 140,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Navigator und Location-Objekt",
+      "question": "Wie erhalten Sie die komplette URL des geöffneten Dokuments?",
+      "antwort": ""
+    },
+    {
+      "id": 141,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Navigator und Location-Objekt",
+      "question": "Was liefert die Eigenschaft location.search?",
+      "antwort": ""
+    },
+    {
+      "id": 157,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Eventhandler, Eventbubbling",
+      "question": "Welcher Event wird ausgelöst, wenn auf ein HTML Element geklickt wird?",
+      "antwort": ""
+    },
+    {
+      "id": 158,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Eventhandler, Eventbubbling",
+      "question": "Welcher Event wird ausgelöst, wenn die HTML Seite vollständig geladen wurde?",
+      "antwort": ""
+    },
+    {
+      "id": 159,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Eventhandler, Eventbubbling",
+      "question": "Mit welcher Methode des Event-Objektes kann Eventbubbling unterbunden werden?",
+      "antwort": ""
+    },
+    {
+      "id": 160,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Eventhandler, Eventbubbling",
+      "question": "Wie kann in Vanilla Javascript beim Element <button id=”btn”> mit einem Mausklick-die Funktion „handlerFunktion“ aufgerufen werden?",
+      "antwort": ""
+    },
+    {
+      "id": 161,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Eventhandler, Eventbubbling",
+      "question": "Welcher Javascript Code ist richtig und ermöglicht Zugriff auf das Event-Objekt?\nAnnahme: meinElement ist ein HTML-Node-Element",
+      "antwort": ""
+    },
+    {
+      "id": 162,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Formularfelder (input, select, Radiobuttons, etc.)",
+      "question": "Mit welchem Befehl können alle Form-Elemente im aktuellen Dokument angesprochen werden?",
+      "antwort": ""
+    },
+    {
+      "id": 163,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Formularfelder (input, select, Radiobuttons, etc.)",
+      "question": "Welche HTML Tags erzeugen Formular-Elemente (HTMLFormElement.elements)?",
+      "antwort": ""
+    },
+    {
+      "id": 164,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Formularfelder (input, select, Radiobuttons, etc.)",
+      "question": "Wie erkenne Sie bei Radiobutton-Elementen welche zusammengehören, und folglich nur eine Option aktiv sein kann?",
+      "antwort": ""
+    },
+    {
+      "id": 165,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Formularfelder (input, select, Radiobuttons, etc.)",
+      "question": "Wie ändern Sie den Text, der in einem Eingabefeld (id='eingabe') zu sehen ist?",
+      "antwort": ""
+    },
+    {
+      "id": 166,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Formularfelder (input, select, Radiobuttons, etc.)",
+      "question": "Wie ermitteln Sie den Wert einer ausgewählten Option in einem Select-Element?\n<select id=“auswahl“>\n    <option1></option><option>2</option><option>3</option>\n</select>\n<script>\n  let mySelect = document.getElementById( 'auswahl' );\n</script>",
+      "antwort": ""
+    },
+    {
+      "id": 167,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Tastatur-Ereignisse",
+      "question": "Welche Eventlistener werden in Zusammenhang mit Tastatureingabe verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 168,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Tastatur-Ereignisse",
+      "question": "Welche Eventlistener werden in Zusammenhang mit Tastatureingabe verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 169,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Tastatur-Ereignisse",
+      "question": "Mit welchem Eventlistener können sie auf einen Tastendruck in einem Formularfeld reagieren?",
+      "antwort": ""
+    },
+    {
+      "id": 170,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Tastatur-Ereignisse",
+      "question": "Warum ist “onkeypress” deprecated?",
+      "antwort": ""
+    },
+    {
+      "id": 171,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Tastatur-Ereignisse",
+      "question": "Wie können Tastatureingaben in Formularfeldern verhindert werden?",
+      "antwort": ""
+    },
+    {
+      "id": 197,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "AJAX, XHR, CORS",
+      "question": "Welche der folgenden Befehle sind VanillaJS und dienen zum Erzeugen von AJAX-Requests?",
+      "antwort": ""
+    },
+    {
+      "id": 198,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "AJAX, XHR, CORS",
+      "question": "Was bedeutet CORS?",
+      "antwort": ""
+    },
+    {
+      "id": 199,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "AJAX, XHR, CORS",
+      "question": "Wozu dient die Same Origin Policy bei Webapplikationen?",
+      "antwort": ""
+    },
+    {
+      "id": 200,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "AJAX, XHR, CORS",
+      "question": "Warum wird der folgende Code nicht funktionieren?\nlet req = new XMLHttpRequest();\nreq.open( 'GET', 'http://www.example.org' );\nreq.send();\nconsole.log( req.responseText );",
+      "antwort": ""
+    },
+    {
+      "id": 201,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "AJAX, XHR, CORS",
+      "question": "Welche Verwendung der Funktion fetch() ist korrekt?\nMit der Annahme let url = 'http://www.example.org';",
+      "antwort": ""
+    },
+    {
+      "id": 207,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Synchrone, Asynchrone Programmabläufe",
+      "question": "Welcher der folgenden Statements erzeugt asnychrones Scriptverhalten?",
+      "antwort": ""
+    },
+    {
+      "id": 208,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Synchrone, Asynchrone Programmabläufe",
+      "question": "Welche der folgenden Callback-Funktionen werden nicht asynchron verarbeitet?",
+      "antwort": ""
+    },
+    {
+      "id": 209,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Synchrone, Asynchrone Programmabläufe",
+      "question": "Bei welcher Funktion darf kein „return“ verwendet werden bzw. macht die Verwendung keinen Sinn?",
+      "antwort": ""
+    },
+    {
+      "id": 210,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Synchrone, Asynchrone Programmabläufe",
+      "question": "Was bedeutet asynchrones Script bzw. was ist der Unterschied zu synchronem Script?",
+      "antwort": ""
+    },
+    {
+      "id": 211,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Synchrone, Asynchrone Programmabläufe",
+      "question": "Warum sind XHR asynchron?",
+      "antwort": ""
+    },
+    {
+      "id": 247,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Arraymethoden (sort, map, filter)",
+      "question": "Welche sort-Funktion ordnet die Zahlen absteigend (also die größte zu Beginn)?",
+      "antwort": ""
+    },
+    {
+      "id": 248,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Arraymethoden (sort, map, filter)",
+      "question": "Wie können Personen in folgendem Array alphabetisch sortiert werden?\nlet p = [{name:'Tom'},{name:'Max'},{name:'Anna'}];",
+      "antwort": ""
+    },
+    {
+      "id": 249,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Arraymethoden (sort, map, filter)",
+      "question": "Wie können Sie alle Zahlen aus einem Array ganz einfach kaufmännisch runden?\nDer Array \"z\" muss nach dem Aufruf einer der folgenden Codezeilen die Werte [2,2,1,8,0] enthalten.\nlet z = [1.5, 2.3, 0.765, 8.485, 0.2];",
+      "antwort": ""
+    },
+    {
+      "id": 250,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Arraymethoden (sort, map, filter)",
+      "question": "Wie können Sie aus folgendem Array alle Zahlen, die kleiner sind als 1 entfernen?\nlet z = [1.5, 2.3, 0.765, 8.485, 0.2];",
+      "antwort": ""
+    },
+    {
+      "id": 251,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Arraymethoden (sort, map, filter)",
+      "question": "Wie können Sie die Summe aller Zahlen aus dem folgenden Array berechnen?\nlet z = [1.5, 2.3, 0.765, 8.485, 0.2];",
+      "antwort": ""
+    },
+    {
+      "id": 267,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Zeitfunktionen (Timeout, Interval, requestAnimationFrame)",
+      "question": "Bei welcher Zeitfunktion muss keine Angabe gemacht werden, wann (=Zeitverzögerung) die Funktion aufgerufen wird?",
+      "antwort": ""
+    },
+    {
+      "id": 268,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Zeitfunktionen (Timeout, Interval, requestAnimationFrame)",
+      "question": "Was ist der Unterschied zwischen setTimeout und setInterval?",
+      "antwort": ""
+    },
+    {
+      "id": 269,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Zeitfunktionen (Timeout, Interval, requestAnimationFrame)",
+      "question": "Mit welchem Befehl kann ein gestartetes Interval (setInterval) wieder beendet werden?",
+      "antwort": ""
+    },
+    {
+      "id": 270,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Zeitfunktionen (Timeout, Interval, requestAnimationFrame)",
+      "question": "Wie oft wird eine Callback-Funktion die mit requestAnimationFrame() angesprochen wird ausgeführt?",
+      "antwort": ""
+    },
+    {
+      "id": 271,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "Zeitfunktionen (Timeout, Interval, requestAnimationFrame)",
+      "question": "Worauf ist zu achten, wenn Zeitfunktionen im Script verwendet werden?",
+      "antwort": ""
+    },
+    {
+      "id": 295,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "ECMAScript6",
+      "question": "Was zählt zu Neuerungen, die mit ECMAScript6 eingeführt wurden?",
+      "antwort": ""
+    },
+    {
+      "id": 296,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "ECMAScript6",
+      "question": "Wie werden Werte aus Variablen in einen Template String eingefügt?\nlet x = 1;",
+      "antwort": ""
+    },
+    {
+      "id": 297,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "ECMAScript6",
+      "question": "Mit welcher Methode kann überprüft werden, ob eine Zeichenkette in einer anderen Zeichenkette (String) vorkommt?\nlet text = 'Hello World';",
+      "antwort": ""
+    },
+    {
+      "id": 298,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "ECMAScript6",
+      "question": "Welches Element bzw. welche Elemente gibt es erst seit ECMAScript6 in VanillaJS?",
+      "antwort": ""
+    },
+    {
+      "id": 299,
+      "module": "Frontend-Programmierung mit JavaScript für PHP-Developer",
+      "topic": "ECMAScript6",
+      "question": "Wie sieht der Spread-Operator aus?",
+      "antwort": ""
+    },
+    {
+      "id": 742,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "OOP, Klassen",
+      "question": "Was ist ein Objekt in der objektorientierten Programmierung?",
+      "antwort": ""
+    },
+    {
+      "id": 743,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "OOP, Klassen",
+      "question": "Was ist eine Klasse in der objektorientierten Programmierung?",
+      "antwort": ""
+    },
+    {
+      "id": 744,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "OOP, Klassen",
+      "question": "Was ist eine abstrakte Klasse in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 745,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "OOP, Klassen",
+      "question": "Mit welchem Schlüsselwort werden Klassen in PHP erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 746,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "OOP, Klassen",
+      "question": "Wie wird ein Objekt einer Klasse (siehe Beispielcode) erstellt?\nclass Tier { /*....*/ };",
+      "antwort": ""
+    },
+    {
+      "id": 747,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "OOP, Klassen",
+      "question": "Wann wird die Funktion __construct() der Klasse Tier aufgerufen?\nclass Tier{\n   function __construct() { /*...*/ }\n}",
+      "antwort": ""
+    },
+    {
+      "id": 748,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Vererbung",
+      "question": "Wie wird eine Klasse erstellt, die sich von der Klasse Tier ableitet?\nclass Tier { /*...*/ }",
+      "antwort": ""
+    },
+    {
+      "id": 749,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Vererbung",
+      "question": "Wenn eine Subklasse eine Konstruktor-Funktion enthält, wie muss diese den Konstruktor der Elternklasse aufrufen?",
+      "antwort": ""
+    },
+    {
+      "id": 750,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Vererbung",
+      "question": "Welche Aussage trifft in PHP zu?",
+      "antwort": ""
+    },
+    {
+      "id": 751,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Vererbung",
+      "question": "Was passiert, wenn in einer Subklasse eine Eigenschaft mit dem gleichen Namen, wie in der Hauptklasse erstellt wird und einen Wert erhält?\nclass Tier {\n   public $name = 'Tier';\n}\nclass Hund extends Tier {\n   public $name = 'Hund';\n}\n$wuff = new Hund();\necho $wuff->name;",
+      "antwort": ""
+    },
+    {
+      "id": 752,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Vererbung",
+      "question": "Was passiert, wenn in einer Subklasse eine Eigenschaft überschrieben wird die in der Hauptklasse private gesetzt wurde?\nclass Tier {\n   private $name = 'Tier';\n}\nclass Hund extends Tier {\n   public $name = 'Hund';\n}\n$wuff = new Hund();\necho $wuff->name;",
+      "antwort": ""
+    },
+    {
+      "id": 753,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Traits",
+      "question": "Wie können Sie in PHP eine Klasse mit Traits definieren und verwenden?",
+      "antwort": ""
+    },
+    {
+      "id": 754,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Traits",
+      "question": "Können Sie mehrere Traits in einer Klasse verwenden?",
+      "antwort": ""
+    },
+    {
+      "id": 755,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Traits",
+      "question": "Was ist ein Trait in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 756,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Traits",
+      "question": "Welche der folgenden Aussagen über Traits in PHP sind wahr?",
+      "antwort": ""
+    },
+    {
+      "id": 757,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Traits",
+      "question": "Wie wird ein Trait mit einer Funktion erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 202,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "JSON, XML, CSV",
+      "question": "Wofür steht JSON?",
+      "antwort": ""
+    },
+    {
+      "id": 203,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "JSON, XML, CSV",
+      "question": "Wofür wird XML-verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 204,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "JSON, XML, CSV",
+      "question": "Welche der folgenden Angaben ist ein JSON?",
+      "antwort": ""
+    },
+    {
+      "id": 758,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "JSON, XML, CSV",
+      "question": "Was liefert der Befehl json_encode ( ['a'=>1, 'b'=>array() ] )?",
+      "antwort": ""
+    },
+    {
+      "id": 206,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "JSON, XML, CSV",
+      "question": "Was bedeuted CSV und was ist es?",
+      "antwort": ""
+    },
+    {
+      "id": 759,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Versionen",
+      "question": "In welche „Kategorien“ werden PHP Versionen eingeteilt?",
+      "antwort": ""
+    },
+    {
+      "id": 760,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Versionen",
+      "question": "Sind alle neueren PHP Versionen zu älteren vollständig abwärtskompatibel?",
+      "antwort": ""
+    },
+    {
+      "id": 761,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Versionen",
+      "question": "Was sind Änderungen, die mit PHP 8 eingeführt wurden?",
+      "antwort": ""
+    },
+    {
+      "id": 762,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Versionen",
+      "question": "Was bedeutet JIT?",
+      "antwort": ""
+    },
+    {
+      "id": 763,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Versionen",
+      "question": "Was bedeutet „deprecated“?",
+      "antwort": ""
+    },
+    {
+      "id": 764,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Konstante",
+      "question": "Wie wird eine Konstante in PHP erzeugt?",
+      "antwort": ""
+    },
+    {
+      "id": 765,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Konstante",
+      "question": "Wie ist der Scope (Geltungsbereich) von Konstanten in PHP festgelegt?",
+      "antwort": ""
+    },
+    {
+      "id": 766,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Konstante",
+      "question": "Was ist eine Magic Konstante?",
+      "antwort": ""
+    },
+    {
+      "id": 767,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Konstante",
+      "question": "Was ist eine Predefined Konstante?",
+      "antwort": ""
+    },
+    {
+      "id": 768,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Konstante",
+      "question": "Wie kann überprüft werden, ob eine Konstante „TEST“ bereits existiert?",
+      "antwort": ""
+    },
+    {
+      "id": 769,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "php.ini",
+      "question": "Welche der folgenden Aussagen ist richtig in Bezug auf die php.ini-Datei?",
+      "antwort": ""
+    },
+    {
+      "id": 770,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "php.ini",
+      "question": "Welche Einstellungen können mit Hilfe der php.ini beispielsweise geändert werden?",
+      "antwort": ""
+    },
+    {
+      "id": 771,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "php.ini",
+      "question": "Was müsste in der php.ini stehen um das Datei-Upload-Limit zu verändern (Beispiel auf 128MB)?",
+      "antwort": ""
+    },
+    {
+      "id": 772,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "php.ini",
+      "question": "Wie kann in der php.ini das anzeigen von PHP Code Errors erzwungen werden?",
+      "antwort": ""
+    },
+    {
+      "id": 773,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "php.ini",
+      "question": "Wo können PHP Erweiterungen aktiviert bzw. deaktiviert werden?",
+      "antwort": ""
+    },
+    {
+      "id": 774,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQLite",
+      "question": "Welche Attribute treffen auf eine SQLite Datenbank-Engine zu?",
+      "antwort": ""
+    },
+    {
+      "id": 775,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQLite",
+      "question": "Wie sieht die Dateistruktur einer SQLite Datenbank aus?",
+      "antwort": ""
+    },
+    {
+      "id": 776,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQLite",
+      "question": "Welche SQL Befehle sind in einer SQLite Datenbank möglich?",
+      "antwort": ""
+    },
+    {
+      "id": 777,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQLite",
+      "question": "Welche Datenbank-Engine ist in SQLite standardmäßig integriert?",
+      "antwort": ""
+    },
+    {
+      "id": 778,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQLite",
+      "question": "Welche der folgenden Aussagen über SQLite sind wahr und welche sind falsch??",
+      "antwort": ""
+    },
+    {
+      "id": 779,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "statische Methoden",
+      "question": "Was ist eine Eigenschaft von statischen Methoden in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 780,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "statische Methoden",
+      "question": "Wie wird eine statische Methode in PHP deklariert?",
+      "antwort": ""
+    },
+    {
+      "id": 781,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "statische Methoden",
+      "question": "Welche der folgenden Aussagen über statische Methoden ist korrekt?",
+      "antwort": ""
+    },
+    {
+      "id": 782,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "statische Methoden",
+      "question": "Welche der folgenden Aussagen über statische Methoden in PHP ist falsch?",
+      "antwort": ""
+    },
+    {
+      "id": 783,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "statische Methoden",
+      "question": "Welches Beispiel zeigt eine korrekte Verwendung einer statischen Methode in PHP?\nclass MeineKlasse {\n    public static function meineFunk() {\n        echo \"Hallo, Welt!\";\n    }\n}",
+      "antwort": ""
+    },
+    {
+      "id": 784,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Namespaces",
+      "question": "Wofür werden Namespaces in PHP verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 785,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Namespaces",
+      "question": "Welcher PHP Code deklariert den Namespace \"Wifi\"?",
+      "antwort": ""
+    },
+    {
+      "id": 786,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Namespaces",
+      "question": "Was muss beim Definieren eines Namespaces beachtet werden?",
+      "antwort": ""
+    },
+    {
+      "id": 787,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Namespaces",
+      "question": "Was bedeutet folgende Codezeile?\n<?php namespace Code\\Wifi; ?>",
+      "antwort": ""
+    },
+    {
+      "id": 788,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Namespaces",
+      "question": "Wofür wird \"use\" in Zusammenhang mit Namespace in PHP verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 789,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Connect",
+      "question": "Mit welcher Extension wird in PHP die Verbindung zu einer MySQL Datenbank erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 790,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Connect",
+      "question": "Welche Aussagen treffen auf die Extension MySQLi zu?",
+      "antwort": ""
+    },
+    {
+      "id": 791,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Connect",
+      "question": "Wie wird eine Verbindung zur Datenbank mit MySQLi erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 792,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Connect",
+      "question": "Wie kann überprüft werden, ob der Verbindungsaufbau zur Datenbank fehlgeschlagen ist?\nAnnahme: mysqli error reporting is enabled (MYSQLI_REPORT_ERROR)\n$conn = new mysqli( $server, $user, $pwd );",
+      "antwort": ""
+    },
+    {
+      "id": 793,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Connect",
+      "question": "Wie wird eine bestehende Verbindung zur Datenbank mit MySQLi wieder geschlossen?\n$conn = mysqli_connect($server, $user, $pwd );",
+      "antwort": ""
+    },
+    {
+      "id": 794,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Query (Select From Where)",
+      "question": "Wie werden alle Felder aus der Tabelle \"users\" mit einem SQL-SELECT ausgewählt?",
+      "antwort": ""
+    },
+    {
+      "id": 795,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Query (Select From Where)",
+      "question": "Mit welchem PHP Befehl wird das nachfolgende SQL-Select ausgeführt?\n$conn = new mysqli( $server, $user, $pwd, $db);\n$sql = \"SELECT id, name FROM persons\";",
+      "antwort": ""
+    },
+    {
+      "id": 796,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Query (Select From Where)",
+      "question": "Mit welchem Befehl können aus dem folgenden Beispiel alle Namen untereinander ausgegeben werden?\n$conn = new mysqli( $server, $user, $pwd, $db);\n$result = $conn->query( \"SELECT id, name FROM persons\" );",
+      "antwort": ""
+    },
+    {
+      "id": 797,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Query (Select From Where)",
+      "question": "Wie können per SQL alle Personen mit Nachname \"Müller\" ausgewählt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 798,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Query (Select From Where)",
+      "question": "Mit welchem SQL Statement können alle Personen gewählt werden, deren Nachname mit \"A\" beginnt?",
+      "antwort": ""
+    },
+    {
+      "id": 799,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Limit und Order",
+      "question": "Wie kann in einem SELECT-Query die Anzahl der gelieferten Einträge auf die ersten 20 beschränkt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 800,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Limit und Order",
+      "question": "Wie können Sie mittels einem SELECT-Query die Einträge 21-40 aus einer Tabelle auswählen?",
+      "antwort": ""
+    },
+    {
+      "id": 801,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Limit und Order",
+      "question": "Wie lautet das SELECT-Query um alle Personen aufsteigend mit ihrem Nachnamen zu wählen?",
+      "antwort": ""
+    },
+    {
+      "id": 802,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Limit und Order",
+      "question": "Wie kann man mit einem SQL-Statement alle Ortsnamen plus PLZ auswählen und das Ergebnis nach PLZ und Orten sortieren?",
+      "antwort": ""
+    },
+    {
+      "id": 803,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Limit und Order",
+      "question": "Es soll aus einer Datentabelle für Buchungszeilen, die ca. 100000 Einträge enthält, nur die ersten vier  gewählt werden die das Wort \"Lokal\" enthalten. Der neuerste Eintrag soll oben stehen, wobei das Feld Datum den Feldtyp DATE hat?",
+      "antwort": ""
+    },
+    {
+      "id": 804,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP XML Parser",
+      "question": "In welche zwei Typen können PHP XML Parser unterteilt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 805,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP XML Parser",
+      "question": "Was ist ein Dokumentenbaum basierter XML Parser in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 806,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP XML Parser",
+      "question": "Was liefert die Funktion simplexml_load_string( $string )?\n$string = '<?xml version=\"1.0\"?><doc><test>Hello</test></doc>';",
+      "antwort": ""
+    },
+    {
+      "id": 807,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP XML Parser",
+      "question": "Wie wird der XML Parser in PHP aktiviert?",
+      "antwort": ""
+    },
+    {
+      "id": 808,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP XML Parser",
+      "question": "Welche Funktion übernimmt der XML Parser in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 809,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Filters",
+      "question": "Welcher PHP FILTER entfernt alle unerwünschten Zeichen aus einer E-Mail-Adresse?",
+      "antwort": ""
+    },
+    {
+      "id": 810,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Filters",
+      "question": "Was sind PHP Filter?",
+      "antwort": ""
+    },
+    {
+      "id": 811,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Filters",
+      "question": "Welche PHP Funktion wird benötigt um eine Variable mit einem Filter zu validieren und zu säubern?",
+      "antwort": ""
+    },
+    {
+      "id": 812,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Filters",
+      "question": "Was liefert nachfolgender PHP Code?\n$str = 'http://www.testme.com/säubern?nachname=Müller-Huber';\n$newstr = filter_var( $str, FILTER_SANITIZE_URL );\necho $newstr;",
+      "antwort": ""
+    },
+    {
+      "id": 813,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Filters",
+      "question": "Was ist der Unterschied zwischen FILTER_SANITIZE_EMAIL und FILTER_VALIDATE_EMAIL?",
+      "antwort": ""
+    },
+    {
+      "id": 814,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "try, catch, finally",
+      "question": "Wofür wird ein try...catch Statement eingesetzt?",
+      "antwort": ""
+    },
+    {
+      "id": 815,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "try, catch, finally",
+      "question": "Kann mit try...catch PHP Error und Exceptions abgefangen werden?",
+      "antwort": ""
+    },
+    {
+      "id": 816,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "try, catch, finally",
+      "question": "Welche Ausgabe ist zu sehen, wenn man für folgenden Code annimmt, dass eine Division mit 0 eine Exception wirft?\ntry {\n  echo divide(5, 0);\n} finally {\n  echo 'ENDE_';\n}\necho 'NEXT';",
+      "antwort": ""
+    },
+    {
+      "id": 817,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "try, catch, finally",
+      "question": "Welche Ausgabe ist zu sehen, wenn man für folgenden Code annimmt, dass eine Division mit 0 eine Exception wirft?\ntry {\n  echo divide(5, 0);\n} catch( Throwable $e ) {\n  echo 'ERROR_';\n} finally {\n  echo 'ENDE_';\n}\necho 'NEXT';",
+      "antwort": ""
+    },
+    {
+      "id": 818,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Access Modifiers",
+      "question": "Was ist der Unterschied zwischen \"public\" und \"private\" Access Modifiers?",
+      "antwort": ""
+    },
+    {
+      "id": 819,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Access Modifiers",
+      "question": "Was sind access modifiers in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 820,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Access Modifiers",
+      "question": "Was ist der Standard access modifier von Klassen Eigenschaften und Methoden?",
+      "antwort": ""
+    },
+    {
+      "id": 821,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Access Modifiers",
+      "question": "Welchen Zugriffsmodizifierer muss der statische Methode \"doit\" zusätzlich geben werden, damit der Aufruf funktioniert?\nclass Demo {   \n   static /*...*/ function doit() {}  \n}  \nDemo::doit();",
+      "antwort": ""
+    },
+    {
+      "id": 822,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "PHP Access Modifiers",
+      "question": "Was ist der Unterschied zwischen dem Access Modifier protected und private?",
+      "antwort": ""
+    },
+    {
+      "id": 823,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Class Constants",
+      "question": "Wie werden in PHP Klassen Konstanten definiert?",
+      "antwort": ""
+    },
+    {
+      "id": 824,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Class Constants",
+      "question": "Können PHP Klassen Konstanten von der Kind-Klasse überschrieben werden?",
+      "antwort": ""
+    },
+    {
+      "id": 825,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "Class Constants",
+      "question": "Wie kann von außerhalb auf eine Klassenkonstante zugegriffen werden (siehe Beispielcode)?\nclass Server {\n   const PORT = 5000;\n   /*...*/\n}\n$test = new Server();",
+      "antwort": ""
+    },
+    {
+      "id": 826,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Insert, Update, Delete",
+      "question": "Welche der folgenden Optionen beschreibt die korrekte Syntax für den SQL INSERT-Befehl?",
+      "antwort": ""
+    },
+    {
+      "id": 827,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Insert, Update, Delete",
+      "question": "Welche der folgenden Optionen beschreibt die korrekte Syntax für den SQL UPDATE-Befehl?",
+      "antwort": ""
+    },
+    {
+      "id": 828,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Insert, Update, Delete",
+      "question": "Welche der folgenden Optionen beschreibt die korrekte Syntax für den SQL DELETE-Befehl?",
+      "antwort": ""
+    },
+    {
+      "id": 829,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Insert, Update, Delete",
+      "question": "Was ist der Unterschied zwischen SQL INSERT und SQL REPLACE?",
+      "antwort": ""
+    },
+    {
+      "id": 830,
+      "module": "Programmieren mit PHP - Aufbau",
+      "topic": "SQL Insert, Update, Delete",
+      "question": "Mit welchem SQL Statement kann eine Tabelle geleert werden - alle Einträge werden entfernt?",
+      "antwort": ""
+    },
+    {
+      "id": 643,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "PHP und HTML (Code einbetten)",
+      "question": "Wie wird PHP Code in HTML eingebettet?",
+      "antwort": ""
+    },
+    {
+      "id": 644,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "PHP und HTML (Code einbetten)",
+      "question": "Wo wird der PHP Code “abgearbeitet“?",
+      "antwort": ""
+    },
+    {
+      "id": 645,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "PHP und HTML (Code einbetten)",
+      "question": "Wofür steht PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 646,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "PHP und HTML (Code einbetten)",
+      "question": "Wie wird ein HTML Tag mittels PHP (Standardfunktionen) erzeugt?",
+      "antwort": ""
+    },
+    {
+      "id": 647,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "PHP und HTML (Code einbetten)",
+      "question": "Wie kann ein Kommentar im PHP Code eingefügt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 648,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datentypen, Variablen",
+      "question": "Was ist ein gültiger Variablenname in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 649,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datentypen, Variablen",
+      "question": "Welchen Variablen Scope (Geltungsbereich) kennt PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 650,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datentypen, Variablen",
+      "question": "Wie werden Variablen (Beispiel $x) in PHP deklariert?",
+      "antwort": ""
+    },
+    {
+      "id": 651,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datentypen, Variablen",
+      "question": "Welche Datentypen kennt PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 652,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datentypen, Variablen",
+      "question": "In welchem Zahlenformat können Integer in PHP angegeben werden?",
+      "antwort": ""
+    },
+    {
+      "id": 653,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Conditions",
+      "question": "Wie sieht die Syntax für eine einfache Kontrollstruktur eines bedingten Codeblocks aus?",
+      "antwort": ""
+    },
+    {
+      "id": 654,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Conditions",
+      "question": "Welche oder welches der folgenden Code-Beispiele ist bzw. sind syntaktisch richtig?",
+      "antwort": ""
+    },
+    {
+      "id": 655,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Conditions",
+      "question": "Wofür wird continue in einem if-else-Konstrukt verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 656,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Conditions",
+      "question": "Welcher Wert steht in der Variable $b nach dem folgenden Code?\n$a = 5;\nif ( $a != '5' ) { $b = 1; }\nelse if ( $a < 5 || $a > 6 ) { $b = 2; }\nelse if ( $a === '5' ) { $b = 3; }\nelse { $b = 4; }",
+      "antwort": ""
+    },
+    {
+      "id": 657,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Operatoren, Logikoperatoren",
+      "question": "Was ist der Unterschied zwischen dem Vergleichsoperator == und ===?",
+      "antwort": ""
+    },
+    {
+      "id": 658,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Operatoren, Logikoperatoren",
+      "question": "Welcher Operator wird verwendet um ungleiche Werte zu erkennen?",
+      "antwort": ""
+    },
+    {
+      "id": 659,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Operatoren, Logikoperatoren",
+      "question": "Was wird in $x für ein Wert gespeichert?\n$x = 4**2;\n$x += 4;  \n$x = $x / 4;\n$x = $x % 3;\necho $x;",
+      "antwort": ""
+    },
+    {
+      "id": 660,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Operatoren, Logikoperatoren",
+      "question": "Was ist der Error Control Operator?",
+      "antwort": ""
+    },
+    {
+      "id": 661,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Operatoren, Logikoperatoren",
+      "question": "Wofür steht der Operator &&?",
+      "antwort": ""
+    },
+    {
+      "id": 662,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "mathematische Funktionen",
+      "question": "Wie erhalten Sie den Wert PI in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 663,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "mathematische Funktionen",
+      "question": "Welche Syntax für die Verwendung der Funktion max() ist richtig?",
+      "antwort": ""
+    },
+    {
+      "id": 664,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "mathematische Funktionen",
+      "question": "Mit welcher Funktion können Zahlen gerundet werden?",
+      "antwort": ""
+    },
+    {
+      "id": 665,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "mathematische Funktionen",
+      "question": "Wie können Sie eine zufällige Zahl ermitteln?",
+      "antwort": ""
+    },
+    {
+      "id": 666,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "mathematische Funktionen",
+      "question": "Welche Bedingung liefert true?",
+      "antwort": ""
+    },
+    {
+      "id": 667,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "prozedurale bzw. strukturierte Programmierung",
+      "question": "Wie wird eine Funktion in PHP erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 668,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "prozedurale bzw. strukturierte Programmierung",
+      "question": "Was macht eine Funktion deren Name mit & beginnt?",
+      "antwort": ""
+    },
+    {
+      "id": 669,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "prozedurale bzw. strukturierte Programmierung",
+      "question": "Welche Ausgabe liefert folgender Code?\nfunction add_five( &$v ) { $v += 5; return $v; }\n$n = 2;\n$c = add_five( $n );\necho ($c + $n);",
+      "antwort": ""
+    },
+    {
+      "id": 670,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "prozedurale bzw. strukturierte Programmierung",
+      "question": "Wie können Standardwerte für Funktionsparameter gesetzt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 671,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "prozedurale bzw. strukturierte Programmierung",
+      "question": "Wie kann der Type des Rückgabewertes einer Funktion festgelegt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 672,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Schleifen",
+      "question": "Was ist keine Schleife (Kontrollstruktur) in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 673,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Schleifen",
+      "question": "Aus welchen drei Teilen besteht die Angabe in einer for Schleife?",
+      "antwort": ""
+    },
+    {
+      "id": 674,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Schleifen",
+      "question": "Wie lautet die Ausgabe zu folgendem Code?\n$ausgabe = '';\nfor ( $i = 1; $i<5; $i+=2 ) {\n    $ausgabe += $i;\n}\necho $ausgabe;",
+      "antwort": ""
+    },
+    {
+      "id": 675,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Schleifen",
+      "question": "Wozu wird continue innerhalb einer Schleife verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 676,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Schleifen",
+      "question": "Wofür stehen die beiden Variablen $a und $b im folgenden Codebeispiel?\n$person_age = array();\n$person_age[ 'Peter' ] = 27;\n$person_age[ 'Anna' ] = 38;\nforeach( $person_age as $a => $b ) { /*…*/ }",
+      "antwort": ""
+    },
+    {
+      "id": 677,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arrays",
+      "question": "Kann PHP in Arrays Elemente unterschiedlichen Datentyps gespeichert werden?",
+      "antwort": ""
+    },
+    {
+      "id": 678,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arrays",
+      "question": "Wie kann ein Array in PHP erzeugt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 679,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arrays",
+      "question": "Welches Statement fügt den Wert „neu“ in einen bestehenden Array $arr ein?",
+      "antwort": ""
+    },
+    {
+      "id": 680,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arrays",
+      "question": "Wie ermittelt man die Anzahl der gespeicherten Elemente in einem Array?",
+      "antwort": ""
+    },
+    {
+      "id": 681,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arrays",
+      "question": "Was liefert der folgende Code?\n$arr = [ 1,2,3 ];  \n$s = 0;\narray_map( function($a) { return $s + $a; }, $arr );\necho $s;",
+      "antwort": ""
+    },
+    {
+      "id": 682,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Objekte",
+      "question": "Wie kann man in PHP ein leeres Objekt erstellen?",
+      "antwort": ""
+    },
+    {
+      "id": 683,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Objekte",
+      "question": "Wie kann man bei einem bestehenden Objekt $obj das Attribut „test“ ansprechen?",
+      "antwort": ""
+    },
+    {
+      "id": 684,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Objekte",
+      "question": "Wie kann dynamisch auf Objektattribute zugegriffen werden?\nEs soll das Attribut $attr ausgegeben werden.\n$obj = json_decode( '{\"test1\":1, \"test2\":2}' );\n$attr = 'test1';\n/* … ? … */",
+      "antwort": ""
+    },
+    {
+      "id": 685,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Objekte",
+      "question": "Wie kann man einem Objekt $obj ein neues Attribut „neu“ geben und den Wert 1 dort speichern?\n$obj = new stdClass();",
+      "antwort": ""
+    },
+    {
+      "id": 686,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Objekte",
+      "question": "Wie wird eine Kopie eines Objektes in PHP erzeugt?",
+      "antwort": ""
+    },
+    {
+      "id": 687,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Errorhandling, Debuggen",
+      "question": "Wie können Sie weiteres Ausführen von Code in PHP verhindern?",
+      "antwort": ""
+    },
+    {
+      "id": 688,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Errorhandling, Debuggen",
+      "question": "Wie können Sie die Ausgabe von Fehlermeldungen in PHP unterdrücken?",
+      "antwort": ""
+    },
+    {
+      "id": 689,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Errorhandling, Debuggen",
+      "question": "Wie wird sichergestellt, dass alle PHP Fehler ausgegeben werden?",
+      "antwort": ""
+    },
+    {
+      "id": 690,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Errorhandling, Debuggen",
+      "question": "Welche Werte können bei error_reporting mitgegeben werden?",
+      "antwort": ""
+    },
+    {
+      "id": 691,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Errorhandling, Debuggen",
+      "question": "Mit welchem Befehl können Sie den Wert und den Datentyp einer Variable ausgeben?",
+      "antwort": ""
+    },
+    {
+      "id": 692,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arbeiten mit Strings",
+      "question": "Was liefert folgender Befehl?\necho mb_strpos(\"Hello world!\", \"o\");",
+      "antwort": ""
+    },
+    {
+      "id": 693,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arbeiten mit Strings",
+      "question": "Welche Ausgabe sehen Sie bei Ausführung folgender Codezeilen?\n$arr = array( 'a', 'e', 'i', 'o', 'u' );\n$text = 'Hello World';\necho str_replace( $arr, '_', $text );",
+      "antwort": ""
+    },
+    {
+      "id": 694,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arbeiten mit Strings",
+      "question": "Wie ermittelt man in PHP die Zeichenanzahl eines Strings?",
+      "antwort": ""
+    },
+    {
+      "id": 695,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arbeiten mit Strings",
+      "question": "Wozu dient die Funktion nl2br() in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 696,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Arbeiten mit Strings",
+      "question": "Was ist der Unterschied zwischen strpos() und strrpos()?",
+      "antwort": ""
+    },
+    {
+      "id": 697,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "reguläre Ausdrücke",
+      "question": "Welcher der folgenden Angaben erstellt einen regulären Ausdruck in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 698,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "reguläre Ausdrücke",
+      "question": "Was bedeutet folgender regulärer Ausdruck \"/[abc]/\" ?",
+      "antwort": ""
+    },
+    {
+      "id": 699,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "reguläre Ausdrücke",
+      "question": "Was ist der Unterschied zwischen den beiden regulären Ausdrücken?\n$r1 = \"/^[a]/\";\n$r2 = \"/[^a]/\";",
+      "antwort": ""
+    },
+    {
+      "id": 700,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "reguläre Ausdrücke",
+      "question": "Welche Angabe bedeutet es muss mindestens einmal, kann aber auch öfter vorkommen?",
+      "antwort": ""
+    },
+    {
+      "id": 701,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "reguläre Ausdrücke",
+      "question": "Wie wird ein regulärer Ausdruck case-insensitive (Groß-, Kleinschreibung egal) angegeben?",
+      "antwort": ""
+    },
+    {
+      "id": 702,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datum und Uhrzeit",
+      "question": "Wie wird ein Datum in PHP erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 703,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datum und Uhrzeit",
+      "question": "Wie erzeugen Sie einen Timestamp der aktuellen Uhrzeit mit PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 704,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datum und Uhrzeit",
+      "question": "Wie können Sie zum aktuellen Datum einen Tag hinzufügen?\n$now = new DateTime( 'now' );",
+      "antwort": ""
+    },
+    {
+      "id": 705,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datum und Uhrzeit",
+      "question": "Wie erstellen Sie eine Datumsausgabe TT.MM.JJJJ?",
+      "antwort": ""
+    },
+    {
+      "id": 706,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Datum und Uhrzeit",
+      "question": "Was liefert folgender PHP Code?\n$date = strtotime( '2025-01-01' );\necho date( 'j. M Y', $date );",
+      "antwort": ""
+    },
+    {
+      "id": 707,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Session/Cookies",
+      "question": "Wie erzeugen Sie mit PHP einen Cookie am Client?",
+      "antwort": ""
+    },
+    {
+      "id": 708,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Session/Cookies",
+      "question": "Wie können Sie den Cookie „test“ mittels PHP löschen?",
+      "antwort": ""
+    },
+    {
+      "id": 709,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Session/Cookies",
+      "question": "Wo werden Informationen (Werte) von $_SESSION und $_COOKIE gespeichert?",
+      "antwort": ""
+    },
+    {
+      "id": 710,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Session/Cookies",
+      "question": "Welche Funktion bzw. Befehl muss am Beginn aufgerufen werden, wenn man auf die Variable $_SESSION zugreifen möchte?",
+      "antwort": ""
+    },
+    {
+      "id": 711,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Session/Cookies",
+      "question": "Wozu verwendet man die Funktion session_create_id()?",
+      "antwort": ""
+    },
+    {
+      "id": 712,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "GET und POST",
+      "question": "Wie nennt man die beiden Variablen $_GET und $_POST?",
+      "antwort": ""
+    },
+    {
+      "id": 713,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "GET und POST",
+      "question": "Welchen Datentyp haben die Variablen $_GET und $_POST?",
+      "antwort": ""
+    },
+    {
+      "id": 714,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "GET und POST",
+      "question": "Wo finden sie die Eingabe in PHP nach dem Abschicken des folgenden Formulares?\n<form action=\"?\" method=\"post\">\n   <input type=\"text\" id=\"user\" name=\"username\"  placeholder=\"Benutzername\">\n   <button>Abschicken</button>\n</form>",
+      "antwort": ""
+    },
+    {
+      "id": 715,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "GET und POST",
+      "question": "Wenn die folgende URL aufgerufen wurde, was findet sich in der Variable $_GET?\nhttp://www.example.com/test.php?x=1",
+      "antwort": ""
+    },
+    {
+      "id": 716,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "GET und POST",
+      "question": "Wie kann man herausfinden, ob das aktuelle Script mit der Methode POST aufgerufen wurde?",
+      "antwort": ""
+    },
+    {
+      "id": 717,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Superglobals",
+      "question": "Was sind superglobals in PHP?",
+      "antwort": ""
+    },
+    {
+      "id": 718,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Superglobals",
+      "question": "Welche der folgenden Variablen ist eine Superglobale?",
+      "antwort": ""
+    },
+    {
+      "id": 719,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Superglobals",
+      "question": "Welche der folgenden Variablen ist eine Superglobale?",
+      "antwort": ""
+    },
+    {
+      "id": 720,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Superglobals",
+      "question": "Welche Information findet sich in der Superglobalen $_SERVER?",
+      "antwort": ""
+    },
+    {
+      "id": 721,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Superglobals",
+      "question": "Wo findet sich üblicherweise die IP Adresse des Client?",
+      "antwort": ""
+    },
+    {
+      "id": 722,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Fileupload",
+      "question": "In welcher Superglobale hat man in der upload.php Zugriff auf eine upgeloadete Datei (siehe HTML Codebeispiel)?\n<form method=\"post\" action=\"upload.php\" enctype=\"multipart/form-data\">\n  <input type=\"file\" name=\"file\" id=\"datei\"><button>Abschicken</button>\n</form>",
+      "antwort": ""
+    },
+    {
+      "id": 723,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Fileupload",
+      "question": "Wo wird eine upgeloadete Datei am Server gespeichert (siehe HTML Codebeispiel)?\n<form method=\"post\" action=\"upload.php\" enctype=\"multipart/form-data\">\n  <input type=\"file\" name=\"file\" id=\"datei\"><button>Abschicken</button>\n</form>",
+      "antwort": ""
+    },
+    {
+      "id": 724,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Fileupload",
+      "question": "Wie können Sie die Dateigröße einer upgeloadeten Datei überprüfen, damit z.B. Fehlermeldungen bei zu großen Dateien ausgegeben werden können?",
+      "antwort": ""
+    },
+    {
+      "id": 725,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Fileupload",
+      "question": "Welches Datenformat muss im form-Tag angegeben werden (enctype) damit upgeloadete Dateien in PHP in der Superglobelen $_FILES stehen?",
+      "antwort": ""
+    },
+    {
+      "id": 726,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Fileupload",
+      "question": "Woran kann es liegen, dass eine upgeloadete Datei nicht im Array $_FILES zu finden ist?",
+      "antwort": ""
+    },
+    {
+      "id": 727,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "File I/O",
+      "question": "Mit welchem PHP Befehl können Dateien geöffnet werden, um später Inhalte zu lesen oder zu bearbeiten?",
+      "antwort": ""
+    },
+    {
+      "id": 728,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "File I/O",
+      "question": "Welche Optionen (Modes) sind bei fopen() möglich?",
+      "antwort": ""
+    },
+    {
+      "id": 729,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "File I/O",
+      "question": "Welche der folgenden Aussagen ist korrekt im Zusammenhang mit fopen()-Modes",
+      "antwort": ""
+    },
+    {
+      "id": 730,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "File I/O",
+      "question": "Worauf muss bei der Verwendung von fwrite() geachtet werden?",
+      "antwort": ""
+    },
+    {
+      "id": 731,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "File I/O",
+      "question": "Wie kann an den Inhalt einer bestehenden Datei etwas angefügt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 732,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Input Validierung",
+      "question": "Welche Funktion in PHP kann verwendet werden, um zu überprüfen, ob eine E-Mail-Adresse gültig ist?",
+      "antwort": ""
+    },
+    {
+      "id": 733,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Input Validierung",
+      "question": "Wie kann man in PHP überprüfen, ob eine Zahl im Bereich zwischen 1 und 100 liegt?",
+      "antwort": ""
+    },
+    {
+      "id": 734,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Input Validierung",
+      "question": "Wie kann man in PHP überprüfen, ob ein String eine gültige URL ist?",
+      "antwort": ""
+    },
+    {
+      "id": 735,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Input Validierung",
+      "question": "Wie kann man in PHP überprüfen, ob ein String nur aus Buchstaben und Leerzeichen besteht?",
+      "antwort": ""
+    },
+    {
+      "id": 736,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Input Validierung",
+      "question": "Wie kann man in PHP überprüfen, ob ein String mindestens 8 Zeichen lang ist?",
+      "antwort": ""
+    },
+    {
+      "id": 737,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
+      "question": "Wann liefert die Funktion empty($var) den Wert true?",
+      "antwort": ""
+    },
+    {
+      "id": 738,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
+      "question": "Wann liefert empty($var) und !isset($var) den Wert false?",
+      "antwort": ""
+    },
+    {
+      "id": 739,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
+      "question": "Was entspricht der Funktion emtpy($var) und liefert das gleiche Ergebnis?",
+      "antwort": ""
+    },
+    {
+      "id": 740,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
+      "question": "In welchem Fall gibt es einen Unterschied zwischen is_numeric( $var ) und is_float( $var )?",
+      "antwort": ""
+    },
+    {
+      "id": 741,
+      "module": "Programmieren mit PHP - Basis",
+      "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
+      "question": "Wie kann man überprüfen ob im Array $arr ein Wert mit dem Index “test” vorhanden ist?",
+      "antwort": ""
+    },
+    {
+      "id": 1,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Request + Headers",
+      "question": "Welche der folgenden Begriffe sind keine HTTP Request Methoden?",
+      "antwort": ""
+    },
+    {
+      "id": 2,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Request + Headers",
+      "question": "Welche Aussage trifft laut HTTP-Standard für die Beschreibung einer HTTP Request Methode zu?",
+      "antwort": ""
+    },
+    {
+      "id": 3,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Request + Headers",
+      "question": "Welche Cache-Richtlinien können mit dem Cache-Control Header definiert werden?",
+      "antwort": ""
+    },
+    {
+      "id": 4,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Request + Headers",
+      "question": "In welcher Syntax werden Cookies mit dem Set-Cookie Header übertragen?",
+      "antwort": ""
+    },
+    {
+      "id": 5,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Request + Headers",
+      "question": "Warum ist HTTP Basic Authentication eher als unsicher an zu sehen?",
+      "antwort": ""
+    },
+    {
+      "id": 6,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Status Codes",
+      "question": "Was definiert der HTTP Status Code?",
+      "antwort": ""
+    },
+    {
+      "id": 7,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Status Codes",
+      "question": "HTTP Response Status Codes werden in wie vielen Gruppen eingeteilt?",
+      "antwort": ""
+    },
+    {
+      "id": 8,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Status Codes",
+      "question": "Was beschreiben HTTP Response Status Codes von 400 bis 499?",
+      "antwort": ""
+    },
+    {
+      "id": 9,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Status Codes",
+      "question": "Welche der Angaben beschreiben Gruppen von HTTP Response Status Codes?",
+      "antwort": ""
+    },
+    {
+      "id": 10,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTTP Status Codes",
+      "question": "Mit welchen zwei Status Codes können temporäre Umleitungen von permanenten Umleitungen unterschieden werden?",
+      "antwort": ""
+    },
+    {
+      "id": 11,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Editor, IDE",
+      "question": "Was bedeutet die Abkürzung IDE?",
+      "antwort": ""
+    },
+    {
+      "id": 12,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Editor, IDE",
+      "question": "Was benötigt eine vollständige IDE?",
+      "antwort": ""
+    },
+    {
+      "id": 13,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Editor, IDE",
+      "question": "Visual Studio Code Extensions werden in welcher Programmsprache erstellt?",
+      "antwort": ""
+    },
+    {
+      "id": 14,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Editor, IDE",
+      "question": "Welche Editoren werden von Webentwicklern häufig verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 15,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Editor, IDE",
+      "question": "Die Editoren Visual Studio Code und Atom.io wurden mit welchem Framework entwickelt?",
+      "antwort": ""
+    },
+    {
+      "id": 16,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Zusammenspiel HTML, CSS, Javascript",
+      "question": "Nach welcher Unterteilung erfolgt bei Webseite oder Webapplikation die Trennung von HTML-, CSS- und Javascript-Code?",
+      "antwort": ""
+    },
+    {
+      "id": 17,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Zusammenspiel HTML, CSS, Javascript",
+      "question": "Wie werden HTML Tags geschrieben?",
+      "antwort": ""
+    },
+    {
+      "id": 18,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Zusammenspiel HTML, CSS, Javascript",
+      "question": "Wofür wird mit einer CSS Regel eine Formatvorlage definiert?",
+      "antwort": ""
+    },
+    {
+      "id": 19,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Zusammenspiel HTML, CSS, Javascript",
+      "question": "Welche Aussage ist korrekt?",
+      "antwort": ""
+    },
+    {
+      "id": 20,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Zusammenspiel HTML, CSS, Javascript",
+      "question": "Welche HTML, CSS und Javascript Befehle passen zusammen?",
+      "antwort": ""
+    },
+    {
+      "id": 21,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTML Grundgerüst",
+      "question": "Was gehört zum HTML Grundgerüst?",
+      "antwort": ""
+    },
+    {
+      "id": 22,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTML Grundgerüst",
+      "question": "Wie sieht eine DTD für HTML5 aus?",
+      "antwort": ""
+    },
+    {
+      "id": 23,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTML Grundgerüst",
+      "question": "Welche Angabe ist laut W3C Standard im <html> Tag empfohlen?",
+      "antwort": ""
+    },
+    {
+      "id": 24,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTML Grundgerüst",
+      "question": "Worauf bezieht sich der Meta-Tag \"viewport\" im HTML-Head?",
+      "antwort": ""
+    },
+    {
+      "id": 25,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "HTML Grundgerüst",
+      "question": "Wo wird der Inhalt des <title> Elementes grundsätzlich angezeigt?",
+      "antwort": ""
+    },
+    {
+      "id": 26,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Block, Inline, andere Displayarten",
+      "question": "Wofür dient die CSS-Eigenschaft „display“ bei HTML-Elementen?",
+      "antwort": ""
+    },
+    {
+      "id": 27,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Block, Inline, andere Displayarten",
+      "question": "Welches bzw. welche der angegeben Elemente ist bzw. sind standardmäßig Block-Elemente?",
+      "antwort": ""
+    },
+    {
+      "id": 28,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Block, Inline, andere Displayarten",
+      "question": "Welches bzw. welche der angegeben Elemente ist bzw. sind standardmäßig Inline-Elemente?",
+      "antwort": ""
+    },
+    {
+      "id": 29,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Block, Inline, andere Displayarten",
+      "question": "Welche Aussage ist grundsätzlich falsch?",
+      "antwort": ""
+    },
+    {
+      "id": 30,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Block, Inline, andere Displayarten",
+      "question": "Welche Werte sind bei der Eigenschaft „display“ gültig?",
+      "antwort": ""
+    },
+    {
+      "id": 31,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Semantik",
+      "question": "Wofür steht der Begriff Semantik?",
+      "antwort": ""
+    },
+    {
+      "id": 32,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Semantik",
+      "question": "Was beschreibt semantisches HTML?",
+      "antwort": ""
+    },
+    {
+      "id": 33,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Semantik",
+      "question": "Was sind Vorteile bei Verwendung von semantischen HTML-Codes?",
+      "antwort": ""
+    },
+    {
+      "id": 34,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Semantik",
+      "question": "Welche der angeführten Tags sind semantiklose Tags?",
+      "antwort": ""
+    },
+    {
+      "id": 35,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Semantik",
+      "question": "Welche der angeführten Tags sind semantiklose Tags?",
+      "antwort": ""
+    },
+    {
+      "id": 36,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Hyperlinks",
+      "question": "Welcher Tag erzeugt einen Hyperlink in der Webseite?",
+      "antwort": ""
+    },
+    {
+      "id": 37,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Hyperlinks",
+      "question": "Wofür dient das Attribut „target“ in einem Hyperlink?",
+      "antwort": ""
+    },
+    {
+      "id": 38,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Hyperlinks",
+      "question": "Welche unterschiedlichen Zustände eines Hyperlinks lassen sich mit entsprechenden Pseudoklassen formatieren?",
+      "antwort": ""
+    },
+    {
+      "id": 39,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Hyperlinks",
+      "question": "Was ist ein absoluter Link?",
+      "antwort": ""
+    },
+    {
+      "id": 40,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Hyperlinks",
+      "question": "Welche CSS Eigenschaft trifft auf einen Hyperlink standardmäßig zu?",
+      "antwort": ""
+    },
+    {
+      "id": 41,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Formulare",
+      "question": "Welche Attribute können dem <form>-Tag wie beschrieben zugewiesen werden?",
+      "antwort": ""
+    },
+    {
+      "id": 42,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Formulare",
+      "question": "Mit welchem Element innerhalb eines Formulars können durch Klick eingegebene Werte verschickt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 43,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Formulare",
+      "question": "Welcher HTML-Tag erzeugt ein Formularelement?",
+      "antwort": ""
+    },
+    {
+      "id": 44,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Formulare",
+      "question": "Wie wird eine Radiobuttongruppe mit zwei Optionen erzeugt?",
+      "antwort": ""
+    },
+    {
+      "id": 45,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Formulare",
+      "question": "Was ist kein gültiger Wert für das Attribut „type“ bei einem input-Element?",
+      "antwort": ""
+    },
+    {
+      "id": 46,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Regel",
+      "question": "Eine CSS Regel besteht aus welchen zwei Teilen?",
+      "antwort": ""
+    },
+    {
+      "id": 47,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Regel",
+      "question": "Eine CSS Regel beschreibt grundsätzlich …",
+      "antwort": ""
+    },
+    {
+      "id": 48,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Regel",
+      "question": "Wofür steht CSS?",
+      "antwort": ""
+    },
+    {
+      "id": 49,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Regel",
+      "question": "Welche Aussage trifft zu?",
+      "antwort": ""
+    },
+    {
+      "id": 50,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Regel",
+      "question": "Welche Aussage zu einfachen CSS Selektoren ist falsch?",
+      "antwort": ""
+    },
+    {
+      "id": 51,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Selektoren, Kaskadierung",
+      "question": "Welche der folgenden Aussagen zu Kombination von CSS Selektoren (E und F) ist falsch?",
+      "antwort": ""
+    },
+    {
+      "id": 52,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Selektoren, Kaskadierung",
+      "question": "Wie kann ein Selektor für das folgende HTML-Element aussehen?\n<div id=\"main\" class=\"top\" data-c=\"7\">Hello World!</div>",
+      "antwort": ""
+    },
+    {
+      "id": 53,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Selektoren, Kaskadierung",
+      "question": "Welcher der folgenden Selektoren spricht alle Listenelemente mit dem Inhalt „A“ aus dem Beispiel an?\n<ul>\n  <li>A</li>  <li>B</li>  <li>A</li>  <li>B</li>\n</ul>",
+      "antwort": ""
+    },
+    {
+      "id": 54,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Selektoren, Kaskadierung",
+      "question": "Welches der folgenden Selektoren spricht ein Pseudoelement an?",
+      "antwort": ""
+    },
+    {
+      "id": 55,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "CSS Selektoren, Kaskadierung",
+      "question": "Welche Farbe hat der Hyperlink?\n<div id=\"main\"><p><a href=\"?\" id=\"hyper\">Link</a></p></div>\nCSS-Regeln:\ndiv#main p { color:red; }\n#hyper {color:green; }\n#main a {color:blue;}\n#main + #hyper  {color:orange;}",
+      "antwort": ""
+    },
+    {
+      "id": 56,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Box Modell",
+      "question": "Über welchen Eigenschaften definiert das Box Modell im CSS die Darstellung eines Elements?",
+      "antwort": ""
+    },
+    {
+      "id": 57,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Box Modell",
+      "question": "Wie kann eine Box mit einem Außenabstand von 20px links/rechts und 10px oben/unten in CSS festgelegt werden?",
+      "antwort": ""
+    },
+    {
+      "id": 58,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Box Modell",
+      "question": "Welcher Abstand wird mit „padding“ festgelegt?",
+      "antwort": ""
+    },
+    {
+      "id": 59,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Box Modell",
+      "question": "Welche CSS Einheiten lassen sich für Größenangaben (Breite/Höhe) von Elementen verwenden?",
+      "antwort": ""
+    },
+    {
+      "id": 60,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Box Modell",
+      "question": "Welche Schriftgröße hat der Text „Hallo Welt“?\n<body><div id=\"main\"><p>Hallo Welt</p></div></body>\nhtml, body { font-size:20px; }\nbody * { font-size:1.5em; }",
+      "antwort": ""
+    },
+    {
+      "id": 61,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Flexbox",
+      "question": "Was sind Vorteile der Flexbox im Vergleich zu Float?",
+      "antwort": ""
+    },
+    {
+      "id": 62,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Flexbox",
+      "question": "Welche Werte sind bei der Eigenschaft „justify-content“ erlaubt?",
+      "antwort": ""
+    },
+    {
+      "id": 63,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Flexbox",
+      "question": "Was ist der Unterschied zwischen display:flex und display:inline-flex?",
+      "antwort": ""
+    },
+    {
+      "id": 64,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Flexbox",
+      "question": "Welche Werte sind bei der Eigenschaft „flex-wrap“ zulässig?",
+      "antwort": ""
+    },
+    {
+      "id": 65,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Flexbox",
+      "question": "Welchem Element wird die Eigenschaft align-items zugewiesen?",
+      "antwort": ""
+    },
+    {
+      "id": 66,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Pseudoklassen, Pseudoelemente",
+      "question": "Welche Pseudoklasse wird verwendet um Formular-Elemente zu stylen, die vom User nicht aktiviert bzw. ausgewählt werden können?",
+      "antwort": ""
+    },
+    {
+      "id": 67,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Pseudoklassen, Pseudoelemente",
+      "question": "Welche Aussage zu Pseudoklassen in CSS ist korrekt?",
+      "antwort": ""
+    },
+    {
+      "id": 68,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Pseudoklassen, Pseudoelemente",
+      "question": "Welcher Selektor wählt jede zweite Zeile in einer Tabelle aus, beginnend mit der ersten (1., 3., 5. usw)?",
+      "antwort": ""
+    },
+    {
+      "id": 69,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Pseudoklassen, Pseudoelemente",
+      "question": "Wofür wird die Pseudoklasse „:target“ verwendet?",
+      "antwort": ""
+    },
+    {
+      "id": 70,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Pseudoklassen, Pseudoelemente",
+      "question": "Mit welchen CSS Selektor wird das erste <p>-Element innerhalb eines Containers angesprochen, ungeachtet von anderen Elementen, die im Container vorhanden sind?",
+      "antwort": ""
+    },
+    {
+      "id": 71,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Pseudoklassen, Pseudoelemente",
+      "question": "Wie sieht der Selektor für ein Pseudoelement in CSS aus?",
+      "antwort": ""
+    },
+    {
+      "id": 72,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Mediaqueries",
+      "question": "Welche Aussagen treffen auf CSS-Mediaqueries zu?",
+      "antwort": ""
+    },
+    {
+      "id": 73,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Mediaqueries",
+      "question": "Welche der folgenden Angaben ist ein gültiges Mediaquery?",
+      "antwort": ""
+    },
+    {
+      "id": 74,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Mediaqueries",
+      "question": "Wie können Sie mit Hilfe eines Mediaqueries ihre Webapplikation für Benutzer, die den Darkmode verwenden, optimieren?",
+      "antwort": ""
+    },
+    {
+      "id": 75,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Mediaqueries",
+      "question": "Wie werden Mediaqueries nach dem „Mobile-First“ Ansatz festgelegt?",
+      "antwort": ""
+    },
+    {
+      "id": 76,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Mediaqueries",
+      "question": "Welches Mediaquery wirkt bei einer Bildschirmbreite von 1024px und Bildschirmhöhe von 768px?",
+      "antwort": ""
+    },
+    {
+      "id": 77,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Bootstrap",
+      "question": "Was ist Bootstrap?",
+      "antwort": ""
+    },
+    {
+      "id": 78,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Bootstrap",
+      "question": "Woraus besteht das Bootstrap Gridsystem?",
+      "antwort": ""
+    },
+    {
+      "id": 79,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Bootstrap",
+      "question": "Mit welcher Klasse können Sie im Bootstrap Grid drei gleichgroße Elemente nebeneinander erstellen, die gemeinsam die Breite des Containers einnehmen?",
+      "antwort": ""
+    },
+    {
+      "id": 80,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Bootstrap",
+      "question": "Welcher Tag erstellt einen Bootstrap-Button mit grünem Hintergrund?",
+      "antwort": ""
+    },
+    {
+      "id": 81,
+      "module": "HTML und CSS für Web Developer:innen",
+      "topic": "Bootstrap",
+      "question": "Mit welcher Bootstrap-Klasse werden erfolgreich validierte Formularfelder markiert?",
+      "antwort": ""
+    }

@@ -1,0 +1,646 @@
+[
+    {
+      "id": 443,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "REST/CRUD",
+      "question": "Wofür steht die Abkürzung CRUD?",
+      "antwort": "?کریت اولش دیلیت آخرش"
+    },
+    {
+      "id": 444,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "REST/CRUD",
+      "question": "Welche 4 Funktionen muss ein CRUD Webservice anbieten?",
+      "antwort": "?داتن لیزن و دیلیت آخرش"
+    },
+    {
+      "id": 445,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "REST/CRUD",
+      "question": "Welche HTTP-Methode wird nicht für ein RESTful CRUD Webservice benötigt?",
+      "antwort": "?پول جواب درست هستش فقط"
+    },
+    {
+      "id": 446,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "REST/CRUD",
+      "question": "Welche HTTP-Methoden werden für ein RESTful CRUD Webservice benötigt?",
+      "antwort": "?گت پست پوت و دیلیت آخرش"
+    },
+    {
+      "id": 447,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "REST/CRUD",
+      "question": "Wir wird bei einem RESTful Webservice beim Lösch-Request definiert welcher Datensatz zu löschen ist?",
+      "antwort": "?اونی ک اولین یو ار ال و تو متنش داره جلو تر از همه"
+    },
+    {
+      "id": 448,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "JWT",
+      "question": "Wofür steht die Abkürzung JWT?",
+      "antwort": "?جیسون وب توکن "
+    },
+    {
+      "id": 449,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "JWT",
+      "question": "Wofür kann JWT verwendet werden?",
+      "antwort": "دوتا جواب داره با آ و اس?"
+    },
+    {
+      "id": 450,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "JWT",
+      "question": "Welche drei Teile sind in einem JWT enthalten?",
+      "antwort": "هایپر داره اولش?"
+    },
+    {
+      "id": 451,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "JWT",
+      "question": "Welchen Vorteil gibt es einen JWT im Authorization-Header zu schicken?",
+      "antwort": "اول جمله سی او ار اس داره؟"
+    },
+    {
+      "id": 840,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "JWT",
+      "question": "Wie werden serverseitig JSON Web Tokens in PHP – vereinfacht - genutzt?",
+      "antwort": "بی بیلیو تک داره اول جمله جواب؟"
+    },
+    {
+      "id": 841,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Composer",
+      "question": "Welche der folgenden Aussagen über den PHP Composer ist/sind korrekt?",
+      "antwort": "سه تا درست داره غلطش آخرش گلیفارت داره؟"
+    },
+    {
+      "id": 842,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Composer",
+      "question": "Welche der folgenden Aussagen zur \"composer.json\"-Datei ist/sind korrekt?",
+      "antwort": "دوتا درست آخرش کومپوسرو/گشپایشرت درستن؟"
+    },
+    {
+      "id": 843,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Composer",
+      "question": "Welche der folgenden Aussagen zur \"composer.json\"-Datei und deren Syntax sind korrekt?",
+      "antwort": "سه تا درست داره به جزاون ک آخرش پروژکت داره؟"
+    },
+    {
+      "id": 844,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Composer",
+      "question": "Welche Attribute kann ein composer.json enthalten?",
+      "antwort": "دو تا جواب داره تایپ و ریکوایر؟"
+    },
+    {
+      "id": 845,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Composer",
+      "question": "Wofür wird das require-Attribut in der composer.json benötigt?",
+      "antwort": "اولین آبهنگیگکایت در جمله پیدا کن؟"
+    },
+    {
+      "id": 846,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Foreign Keys",
+      "question": "Was ist ein \"Foreign Key\" in einer relationalen Datenbank?",
+      "antwort": "سومین کلمش اودا داره باشه؟"
+    },
+    {
+      "id": 847,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Foreign Keys",
+      "question": "Welche Aussagen sind wahr über \"Foreign Keys\" in relationalen Datenbanken?",
+      "antwort": "دوتا جواب داره ایست داره و ویرد؟"
+    },
+    {
+      "id": 848,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Foreign Keys",
+      "question": "In welchem Query ist ein Foreign-Key enthalten?",
+      "antwort": "سلکت فروم اوردرس جوین؟"
+    },
+    {
+      "id": 849,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Foreign Keys",
+      "question": "Muss ein Foreign-Key auf den Primärschlüssel der anderen Tabelle verweisen?",
+      "antwort": "نین ار کن اوخ اوف اینه آندره شپالتن؟"
+    },
+    {
+      "id": 850,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Foreign Keys",
+      "question": "Was ist der Unterschied zwischen INNER JOIN und LEFT JOIN in MySQL?",
+      "antwort": "اینا جوین گیبت نعر دی داتنستزه؟"
+    },
+    {
+      "id": 851,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Join",
+      "question": "Was ist das Ergebnis eines INNER JOIN, wenn es keine Übereinstimmungen zwischen den verknüpften Tabellen gibt?",
+      "antwort": "دقت کن تنها سوالی که از همه کوتاه تره اون جواب هست؟"
+    },
+    {
+      "id": 852,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Join",
+      "question": "Was ist der Unterschied zwischen einem LEFT JOIN und einem RIGHT JOIN?",
+      "antwort": "عین لفط جوین بلا بلا لینک؟"
+    },
+    {
+      "id": 853,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Join",
+      "question": "Mit welchem SQL Befehl können zwei Tabellen mit einander verknüpft werden?",
+      "antwort": "دوتا جواب داره اینا جوین و لفط جوین؟"
+    },
+    {
+      "id": 854,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Join",
+      "question": "Was fehlt in dem folgendem SQL Statement?\nSELECT * FROM t1 LEFT JOIN t2",
+      "antwort": "یک شرط روشن"
+    },
+    {
+      "id": 855,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Prepared",
+      "question": "Was ist der Hauptvorteil der Verwendung von Prepared Statements in SQL?",
+      "antwort": "ارهوهته زیشاهایت گگن اس کو؟"
+    },
+    {
+      "id": 856,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Prepared",
+      "question": "Welche Schritte sind bei der Verwendung von Prepared Statements in SQL erforderlich?",
+      "antwort": "یک جواب درست داره فوربرایتن شروع؟"
+    },
+    {
+      "id": 857,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Prepared",
+      "question": "Welche Funktionen oder Methoden können in SQL verwendet werden, um Prepared Statements zu erstellen und auszuführen??",
+      "antwort": "یک جواب درست داره پره پاره عند اکسیکیوت؟"
+    },
+    {
+      "id": 858,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Prepared",
+      "question": "An welche Methode wird folgendes SQL Statement übergeben?\n$sql = \"INSERT INTO MyGuests (firstname, lastname, email) VALUES (?, ?, ?)\";",
+      "antwort": "یک جواب درست داره پره پاره داره؟"
+    },
+    {
+      "id": 859,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Prepared",
+      "question": "Was bedeutet \"sid\" in folgendem PHP Statement?\n$stmt->bind_param( \"sid\", $name, $age, $weight );",
+      "antwort": "سید دیفینیرت شروع میشه؟"
+    },
+    {
+      "id": 860,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Subselects",
+      "question": "Was wird mit Subselects (bzw. Subqueries) umgesetzt?",
+      "antwort": "اس سول عین کوری باسیرت؟"
+    },
+    {
+      "id": 861,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Subselects",
+      "question": "Welches der folgenden Queries enthält sein Subselect?",
+      "antwort": "سه درست ویک غلط اونم اند داره؟"
+    },
+    {
+      "id": 862,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Subselects",
+      "question": "Wie werden SQL-Subselects in einer Abfrage geschrieben?",
+      "antwort": "زی وردن این کلامن؟"
+    },
+    {
+      "id": 863,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Subselects",
+      "question": "Welche Funktion erfüllen SQL-Subselects?",
+      "antwort": "داس فیلتر فن داتن؟"
+    },
+    {
+      "id": 864,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Subselects",
+      "question": "Welche Aussage zu SQL-Subselects ist korrekt?",
+      "antwort": "کونن این فرشیدنن؟"
+    },
+    {
+      "id": 865,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PHP Error vs. Exception",
+      "question": "Was ist der Unterschied zwischen einer Exception und einem Error?",
+      "antwort": "بزیهن زیش اوف دی آنونونگ؟"
+    },
+    {
+      "id": 866,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PHP Error vs. Exception",
+      "question": "Welche Parameter benötigt die Methode set_error_handler()?",
+      "antwort": "اولش با نامن شروع میشه ()؟"
+    },
+    {
+      "id": 867,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PHP Error vs. Exception",
+      "question": "Mit welchem Statement erzeugt man eine PHP Exception?",
+      "antwort": "تهروو نیو اکزپتیون؟"
+    },
+    {
+      "id": 868,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Output Control Functions",
+      "question": "Welche der folgenden Aussagen zur Verwendung von PHP Output Control Funktionen ist korrekt?",
+      "antwort": "زی دینن دازو دن اوت پوت در گسامت؟"
+    },
+    {
+      "id": 869,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Output Control Functions",
+      "question": "Was bewirkt die Verwendung der Funktion ob_start() in PHP?",
+      "antwort": "اس لیتت دن اوت() پوت؟"
+    },
+    {
+      "id": 870,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Output Control Functions",
+      "question": "Welche Funktion wird verwendet, um den Inhalt des Output-Puffers anzuzeigen und den Puffer zu leeren?",
+      "antwort": "اوب آندر لاین فلوشتوی پرانز های زیبا؟"
+    },
+    {
+      "id": 871,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Output Control Functions",
+      "question": "Was passiert bei folgendem PHP Code?\nob_start();\necho 'Hello ';\n$out = ob_get_contents();\nob_end_clean();",
+      "antwort": "اس گیبت طولانیه؟"
+    },
+    {
+      "id": 872,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Output Control Functions",
+      "question": "Was passiert bei folgendem PHP Code (mit der Annahme, dass in der php.ini der Wert url_rewriter.tags auf a=href gesetzt wurde)?\noutput_add_rewrite_var('var', 'value');\necho '<a href=\"file.php\">link</a>';",
+      "antwort": "در ورت این هرف ویرد اوف فایل (دات پی اچ پی علامت سوال)؟"
+    },
+    {
+      "id": 873,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Template Engines",
+      "question": "Was ist eine Template Engine für PHP?",
+      "antwort": "دو جواب تی اس شروع؟"
+    },
+    {
+      "id": 874,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Template Engines",
+      "question": "Was sind Vorteile bei der Nutzung von Template Engines in PHP?",
+      "antwort": "دو جواب ترنونگ و بسا؟"
+    },
+    {
+      "id": 875,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Template Engines",
+      "question": "Welches der folgenden Code-Snippets dient in der Template Engine \"Smarty\" zu Ausgabe eines Wertes aus dem folgenden Array?\n$arr = array( \"test\" => \"Hello World!\" );",
+      "antwort": "پی تگ بسته پرانتز کمر شیکسته باز و ارر نقطه تست؟"
+    },
+    {
+      "id": 876,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Template Engines",
+      "question": "Wie können Sie den folgenden PHP Code in einem Smarty-Template schreiben?\n<?php echo htmlspecialchars( strtolower( $test ), ENT_QUOTES, 'UTF-8' ); ?>",
+      "antwort": "دلار بعد  پرانتز کمر شیکسته باز و تست خط صاف لوور؟"
+    },
+    {
+      "id": 877,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Template Engines",
+      "question": "Wie kann das folgende Smarty-Template \"header.tpl\" in anderes Template integriert werden?\n<html>\n   <head>\n      <title>{$title}</title>\n   </head>\n   <body>",
+      "antwort": "اینکلود فایل مساوی هدر تپی ال؟"
+    },
+    {
+      "id": 878,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Group/Having",
+      "question": "Mit welchen SQL Funktionen wird ein SQL Statement mit GROUP BY meistens verwendet?",
+      "antwort": "دو جواب داره با سی و اس شروع؟"
+    },
+    {
+      "id": 879,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Group/Having",
+      "question": "Wann muss HAVING im SQL Statement verwendet werden?",
+      "antwort": "این کومبیناتسیون میت؟"
+    },
+    {
+      "id": 880,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Group/Having",
+      "question": "Was liefert folgendes SQL Query (Standard SQL)?\nSELECT Vorname FROM Mitglieder GROUP BY Nachname",
+      "antwort": "عینن اس کو ال عرور ؟"
+    },
+    {
+      "id": 881,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Group/Having",
+      "question": "Wie muss folgendes SQL Query erweitert werden, damit es ein Ergebnis liefert?\nSELECT COUNT(Id), Nachname FROM Mitglieder",
+      "antwort": "گروپ بی ناخ نامه هستش جواب؟"
+    },
+    {
+      "id": 882,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "SQL Group/Having",
+      "question": "Sie haben eine Tabelle mit Orten, die einem Land zugeordnet sind. In folgendem Beispiel möchte man alle Länder, die mindestens 10 gespeicherte Orte besitzen, ausgeben. Wie muss das SQL Query erweitert werden?\nSELECT COUNT(id), land FROM orte GROUP BY land",
+      "antwort": "هوینگ کانت ای دی بزرگتر مساوی ده هستش جواب درست در اینجا؟"
+    },
+    {
+      "id": 883,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "MySQL Trigger",
+      "question": "Was bewirkt der folgende PHP-Trigger und welche Art von Trigger ist es?\nCREATE TRIGGER update_employee_salary\nAFTER UPDATE ON employees\nFOR EACH ROW\nBEGIN\n    IF NEW.salary > OLD.salary THEN\n        INSERT INTO salary_changes (employee_id, new_salary, old_salary, change_date)\n        VALUES (NEW.id, NEW.salary, OLD.salary, NOW());\n    END IF;\nEND;",
+      "antwort": "تابله سالاری چنجز داره؟"
+    },
+    {
+      "id": 884,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "MySQL Trigger",
+      "question": "Was ist ein \"Trigger\" und wo wird er verwendet?",
+      "antwort": "اس کو ال کوریز داره اولش؟"
+    },
+    {
+      "id": 885,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "MySQL Trigger",
+      "question": "Vor bzw. nach welchen SQL Statements können Trigger ausgeführt werden?",
+      "antwort": "یک غلط اونم سلکت سنست همه درست؟"
+    },
+    {
+      "id": 886,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "MySQL Trigger",
+      "question": "Wie wird ein MySQL Trigger erstellt?",
+      "antwort": "کریت شروع میشه؟"
+    },
+    {
+      "id": 887,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "MySQL Trigger",
+      "question": "Wie wird ein gespeicherter MySQL Trigger mittels PHP aufgerufen und ausgeführt?",
+      "antwort": "گار نیشت در تریگا ویرد آتوماتیش؟"
+    },
+    {
+      "id": 399,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Websockets, Rawsockets",
+      "question": "Wie lautet eine gültige URL für eine Websocket-Verbindung?",
+      "antwort": "وی اس اس داره؟"
+    },
+    {
+      "id": 400,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Websockets, Rawsockets",
+      "question": "Was ist der Unterschied zwischen einer Websocket Kommunikation zu einer HTTP- Kommunikation?",
+      "antwort": "کمینیکاتیون اشتلت در کلاینت؟"
+    },
+    {
+      "id": 401,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Websockets, Rawsockets",
+      "question": "Was ist unbedingt notwendig bevor über eine Websocket-Verbindung Daten ausgetauscht werden können?",
+      "antwort": "اس موسس عینن اینیتالن اچ تی تی پی؟"
+     },
+    {
+      "id": 888,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Websockets, Rawsockets",
+      "question": "Mit welchem Befehl kann ein Socket-Server in PHP erstellt werden?",
+      "antwort": "ساکت کریعیت بعد پرانتز؟"
+    },
+    {
+      "id": 889,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Websockets, Rawsockets",
+      "question": "Welche PHP Libraries eignen sich zum Erstellen von Applikationen basierend auf Websockets?",
+      "antwort": "دوتا با راتچت و پی اچ پی شروع میشن؟"
+    },
+    {
+      "id": 890,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Check Constraints",
+      "question": "Welche Aussage beschreibt am besten Check Constraints in SQL?",
+      "antwort": " کانستراتز ارموگلیش؟"
+    },
+    {
+      "id": 891,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Check Constraints",
+      "question": "Wie wird ein Check Constraint in einer SQL-Tabelle definiert?",
+      "antwort": "توش چک و کلامن داره؟"
+    },
+    {
+      "id": 892,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Check Constraints",
+      "question": "Welche der folgenden Optionen ist ein möglicher Anwendungsfall für Check Constraints?",
+      "antwort": "دوتا داره اوب و درلانگه؟"
+    },
+    {
+      "id": 893,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PDO",
+      "question": "Welche der folgenden Aussagen zur PDO ist falsch?",
+      "antwort": "داتن بانک اروایترونگ؟"
+    },
+    {
+      "id": 894,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PDO",
+      "question": "Wie kann man in PDO alle verbleibenden Ergebniszeilen eines SELECT-Queries als Array bereitstellen?",
+      "antwort": "استیتمنت فتچ آل داره بعد پرانتز؟"
+    },
+    {
+      "id": 895,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PDO",
+      "question": "Welches Statement erstellt eine Verbindung zu einer MySQL Datenbank mit PDO?",
+      "antwort": "نیو پی دی اومای اس کو ال؟"
+    },
+    {
+      "id": 896,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PDO",
+      "question": "Wie kann man bei einer bestehenden PDO Verbindung ($pdo) ein Prepared-Statment mit benannten Parametern umsetzen?",
+      "antwort": "اکزیکیوت پرانتز باز آرایه تو جواب داره؟"
+    },
+    {
+      "id": 897,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "PDO",
+      "question": "Wie erhalten Sie mittels PDO bei einem Insert die Id des eingefügten Eintrages?",
+      "antwort": "اولش با ناخ دم آوس شرو میشه؟"
+    },
+    {
+      "id": 898,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Grafiken mit PHP erzeugen, GD",
+      "question": "Mit welchem Befehl wird in PHP mittels GD libary ein neues leeres Bild erzeugt?",
+      "antwort": "ایمیج کرییتور کالر؟"
+    },
+    {
+      "id": 899,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Grafiken mit PHP erzeugen, GD",
+      "question": "Welche Werte müssen der Funktion imagecreatetruecolor() übergeben werden?",
+      "antwort": "برایت عند هوهه داره () جواب؟"
+    },
+    {
+      "id": 900,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Grafiken mit PHP erzeugen, GD",
+      "question": "Was macht die Funktion imagepng() der GD libary?",
+      "antwort": "عین عرزویگتس ()جی دی؟"
+    },
+    {
+      "id": 901,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Grafiken mit PHP erzeugen, GD",
+      "question": "Mit welchem Befehl kann die Größe (Bilddimension) eines PNG verändert werden?\n$img = imagecreatefrompng( $src_bestehendes_bild );\n$neues_img = imagecreatetruecolor( $neue_breite, $neue_hoehe );",
+      "antwort": "ایمیج کوپی (ریسمپلد) داره تو جواب؟"
+    },
+    {
+      "id": 902,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Grafiken mit PHP erzeugen, GD",
+      "question": "Was fehlt in folgendem PHP Code?\n<?php  \n  $im = imagecreatetruecolor( 300, 200 );\n  $text_color = imagecolorallocate( $im, 255, 255, 255 );\n  imagestring( $im, 1, 10, 10, 'Hello World', $text_color );\n  imagejpeg( $im );\n?>",
+      "antwort": "دو جواب دِر و دِی؟"
+    },
+    {
+      "id": 903,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Authentifizierung",
+      "question": "Wie kann eine einfache HTTP-Authentifizierung mittels PHP angefordert werden?",
+      "antwort": "سه تا دبلیو داره تو یکیشون؟"
+    },
+    {
+      "id": 904,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Authentifizierung",
+      "question": "Wo wird Authentifizierungs-Information (ob ein Benutzer eingeloggt ist oder nicht) mit PHP gespeichert, damit bei weiteren Anfragen diese leicht überprüft werden können?",
+      "antwort": "دوتا جواب درست داره (جواب بلندا) سزیون و کوکی؟"
+    },
+    {
+      "id": 905,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "E-Mail mit PHP",
+      "question": "Mit welcher PHP Funktion kann man ein E-Mail versenden?",
+      "antwort": "میل پرانتز باز و بسته جوابه؟"
+    },
+    {
+      "id": 906,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "E-Mail mit PHP",
+      "question": "Welche Parameter werden an die Funktion mail() übergeben?",
+      "antwort": "با تو شروع()سابجکت دوم؟"
+    },
+    {
+      "id": 907,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "E-Mail mit PHP",
+      "question": "Worauf muss geachtet werden, wenn mittels mail()-Funktion eine Nachricht mit HTML-Code geschickt wird?",
+      "antwort": "بای دن هدر ()اینفرماتیونن موس درکانتنت؟"
+    },
+    {
+      "id": 908,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "E-Mail mit PHP",
+      "question": "Warum soll eine Library wie z.B. PHPMailer zum Versenden von E-Mails verwendet werden, anstatt die Standardfunktion mail() zu nutzen?",
+      "antwort": "توجه یک غلط الباغی صحیح وتنها غلط با ایمیل شروع میشه()توجه کن؟"
+    },
+    {
+      "id": 909,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "E-Mail mit PHP",
+      "question": "Es wird zum Versenden von E-Mails die Library PHPMailer verwendet. Wie können Sie die Datei 'test.jpg' als Anhang mitschicken?\n$mail = new PHPMailer();",
+      "antwort": "میل فلش اد اتیچمنت پرانتز تست جی پی جی؟"
+    },
+    {
+      "id": 911,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Enviroment Variables",
+      "question": "Wie können Sie mittels PHP auf Umgebungsvariablen des Systems zu greifen?",
+      "antwort": "دلار اندلاین ای ان وی خالی؟"
+    },
+    {
+      "id": 912,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Enviroment Variables",
+      "question": "Wie kann man mit PHP Umgebungsvariablen setzen?\nBeispiel der Wert PORT soll auf 5555 gesetzt werden.",
+      "antwort": "۲تا جواب درست داره یکی دلار ای ان وی؟ ودیگری پوت ای ان وی."
+    },
+    {
+      "id": 913,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Enviroment Variables",
+      "question": "Wie können Umgebungsvariablen aus einer .env in PHP geladen werden?",
+      "antwort": "۲تا جواب فایل دایرکت و فروندونگ؟"
+    },
+    {
+      "id": 914,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Enviroment Variables",
+      "question": "Worauf ist zu achten, wenn Sie in einem Projekt Umgebungsvariablen in einer .env speichern?",
+      "antwort": "دی ای ان وی داتای دارف نیشت ایم؟"
+    },
+    {
+      "id": 915,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "CSV parsing",
+      "question": "Mit welchem PHP-Befehl können Sie zeilenweise Inhalte aus einer CSV-Datei einlesen und sofort als Array weiterverwenden?",
+      "antwort": "اف گت سی اس وی تنها جواب درست هست فراموش نکن؟"
+    },
+    {
+      "id": 916,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "CSV parsing",
+      "question": "Sie haben eine CSV-Datei (siehe Beispiel). Was müssen sie an die Funktion fgetcsv() übergeben, damit die Daten sinnvoll eingelesen werden können?\npersonen.csv\n   Vorname;Nachname\n   Max;Muster\n   Anna;Anderson\n   Jim;Jonny\npersonen.php\n  if ( ($handle = fopen( \"personen.csv\", \"r\" ) ) !== FALSE ) {\n     while( ($data = fgetcsv( /*... ? ... */ )) !== FALSE ) {\n        /* ... */",
+      "antwort": "اف گت سی اس وی پرانتز باز دلار هندل نال تنها جواب درست هست فراموش نکن؟"
+    },
+    {
+      "id": 917,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "CSV parsing",
+      "question": "Mit welchem PHP-Befehl werden Daten aus einem Array in eine CSV geschrieben?",
+      "antwort": "اف پوت سی اس وی پرانتز؟"
+    },
+    {
+      "id": 918,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Server Server Kommunikation",
+      "question": "Welche der folgenden Möglichkeiten ist für eine Server Server Kommunikation mit PHP möglich?",
+      "antwort": "سی یو ار ال و فایل گت کانتنتس؟"
+    },
+    {
+      "id": 919,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Server Server Kommunikation",
+      "question": "Mit welchem PHP-Befehl wird die URL für einen Request mittels cURL gesetzt, wenn diese mit  \n$ch = curl_init(); initialisiert wurde?",
+      "antwort": "کورل ست اوپت دلار سی اچ کورلوپت یو ار ال ؟"
+    },
+    {
+      "id": 920,
+      "module": "Webapplikationen mit PHP und JavaScript entwickeln",
+      "topic": "Server Server Kommunikation",
+      "question": "Wie können Fehler, die bei einem Verbindungsaufbau mittels cURL passieren, ausgegeben werden?",
+      "antwort": "اکزک دلار سی اچ فالز اکو کورل؟"
+    }
+  ]

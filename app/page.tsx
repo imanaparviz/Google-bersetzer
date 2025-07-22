@@ -14,18 +14,28 @@ import {
   FileText,
   Globe,
 } from "lucide-react";
+import { useQuestionSearch } from "../components/question-search";
 
 export default function GoogleTranslate() {
   const [inputText, setInputText] = useState("");
   const [outputText, setOutputText] = useState("");
   const [activeTab, setActiveTab] = useState("text");
+  const { searchQuestions } = useQuestionSearch();
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const value = e.target.value;
     setInputText(value);
-    // Simple mock translation - reverse the text
+
+    // Intelligente Suche nach deutscher Frage (unsichtbar für User)
     if (value.trim()) {
-      setOutputText(value.split("").reverse().join(""));
+      const results = searchQuestions(value);
+
+      // Zeige beste Antwort automatisch an
+      if (results.length > 0) {
+        setOutputText(results[0].answer);
+      } else {
+        setOutputText("Keine passende Antwort gefunden.");
+      }
     } else {
       setOutputText("");
     }
@@ -203,6 +213,7 @@ export default function GoogleTranslate() {
                 placeholder="Übersetzung"
                 value={outputText}
                 readOnly
+                style={{ direction: "rtl", textAlign: "right" }}
               />
             </div>
           </div>
