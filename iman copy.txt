@@ -1068,21 +1068,21 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "OOP, Klassen",
     "question": "Was ist ein Objekt in der objektorientierten Programmierung?",
-    "antwort": "اینساتز عین کلاسس؟"
+    "antwort": "این اشتاینز عینر کلاسه؟"
   },
   {
     "id": 743,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "OOP, Klassen",
     "question": "Was ist eine Klasse in der objektorientierten Programmierung?",
-    "antwort": "ارزویگونگ فن آبجکتن؟"
+    "antwort": "اینه فورلاگه زور ارزویگونگ فن آبجکتن؟"
   },
   {
     "id": 744,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "OOP, Klassen",
     "question": "Was ist eine abstrakte Klasse in PHP?",
-    "antwort": "دو جوابه اینساتزو درازه؟"
+    "antwort": "دوتا جواب داره دی کلاس دی کاین اینشتانزن و دی کلاس دی دورچ اینه آندره کلاسه؟"
   },
   {
     "id": 745,
@@ -1096,7 +1096,7 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "OOP, Klassen",
     "question": "Wie wird ein Objekt einer Klasse (siehe Beispielcode) erstellt?\nclass Tier { /*....*/ };",
-    "antwort": "نیو تیر( بعد )پرانتز؟"
+    "antwort": "نیو تیر بعد پرانتز؟"
   },
   {
     "id": 747,
@@ -1110,49 +1110,49 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Vererbung",
     "question": "Wie wird eine Klasse erstellt, die sich von der Klasse Tier ableitet?\nclass Tier { /*...*/ }",
-    "antwort": "کلاس هوند اکستندز تیر بعد پرانتز؟"
+    "antwort": "کلاس هوند اکستندز تیر؟"
   },
   {
     "id": 749,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Vererbung",
     "question": "Wenn eine Subklasse eine Konstruktor-Funktion enthält, wie muss diese den Konstruktor der Elternklasse aufrufen?",
-    "antwort": "پرنت دوخط کانستراکت بعد پرانتز و تمام؟"
+    "antwort": "پرنت دوخط کانستراکت؟"
   },
   {
     "id": 750,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Vererbung",
     "question": "Welche Aussage trifft in PHP zu?",
-    "antwort": "براخت کین عیگنه؟"
+    "antwort": "اینه ساب کلاسه براوشت کاین ایگن کانستراکتور؟"
   },
   {
     "id": 751,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Vererbung",
     "question": "Was passiert, wenn in einer Subklasse eine Eigenschaft mit dem gleichen Namen, wie in der Hauptklasse erstellt wird und einen Wert erhält?\nclass Tier {\n   public $name = 'Tier';\n}\nclass Hund extends Tier {\n   public $name = 'Hund';\n}\n$wuff = new Hund();\necho $wuff->name;",
-    "antwort": "دی آوس گابه ایست هوند دا در ورت عینفاخ اوبا شرایبن؟"
+    "antwort": "دی آوس گابه ایست هوند دا در ورت؟"
   },
   {
     "id": 752,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Vererbung",
     "question": "Was passiert, wenn in einer Subklasse eine Eigenschaft überschrieben wird die in der Hauptklasse private gesetzt wurde?\nclass Tier {\n   private $name = 'Tier';\n}\nclass Hund extends Tier {\n   public $name = 'Hund';\n}\n$wuff = new Hund();\necho $wuff->name;",
-    "antwort": "دی آوس گابه ایست هوند دا در ورت عینفاخ اوبا شرایبن؟"
+    "antwort": "دی آوس گابه ایست هوند دا در ورت؟"
   },
   {
     "id": 753,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Traits",
     "question": "Wie können Sie in PHP eine Klasse mit Traits definieren und verwenden?",
-    "antwort": "شلوس ورت یوز ایناهالب؟"
+    "antwort": "تریتس وردن اور داس شلوسل؟"
   },
   {
     "id": 754,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Traits",
     "question": "Können Sie mehrere Traits in einer Klasse verwenden?",
-    "antwort": "دوتا جواب مهراره و ون زوای تریته؟"
+    "antwort": "دوتا جواب مهرره تریته و ونن زوای تریته؟"
   },
   {
     "id": 755,
@@ -1166,14 +1166,14 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Traits",
     "question": "Welche der folgenden Aussagen über Traits in PHP sind wahr?",
-    "antwort": "عین تریت کن فون؟"
+    "antwort": "دوتا جواب این تریته کان فن مهرره کلاسن و تریته کونن نیشت؟"
   },
   {
     "id": 757,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Traits",
     "question": "Wie wird ein Trait mit einer Funktion erstellt?",
-    "antwort": "تریت ماین تریت؟"
+    "antwort": "تریت ماین تریت? "
   },
   {
     "id": 202,
@@ -1187,91 +1187,91 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "JSON, XML, CSV",
     "question": "Wofür wird XML-verwendet?",
-    "antwort": "وردن داتن بشرایبن؟"
+    "antwort": "میت ایکس ام ال وردن داتن بسکریبن؟"
   },
   {
     "id": 204,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "JSON, XML, CSV",
     "question": "Welche der folgenden Angaben ist ein JSON?",
-    "antwort": "دو جواب ترو و کوتاهه؟"
+    "antwort": "دوتا درست اولی تو پرانتز آبجکت و دومی در کروشه؟"
   },
   {
     "id": 758,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "JSON, XML, CSV",
     "question": "Was liefert der Befehl json_encode ( ['a'=>1, 'b'=>array() ] )?",
-    "antwort": "کوتاه ترینه؟"
+    "antwort": "جیسون آبجکت ای یک بی کروشه خالی؟"
   },
   {
     "id": 206,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "JSON, XML, CSV",
     "question": "Was bedeuted CSV und was ist es?",
-    "antwort": "سی اس وی اشتت فور کاما؟"
+    "antwort": "سی اس وی اشتت فور کاما سپراتد ولیوز؟"
   },
   {
     "id": 759,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Versionen",
     "question": "In welche „Kategorien“ werden PHP Versionen eingeteilt?",
-    "antwort": "اکتیو ساپورت سکوریتی؟"
+    "antwort": "اکتیو ساپورت سکوریتی فیکسز اندی اف لایف؟"
   },
   {
     "id": 760,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Versionen",
     "question": "Sind alle neueren PHP Versionen zu älteren vollständig abwärtskompatibel?",
-    "antwort": "نین اس گیبت آوخ؟"
+    "antwort": "نین اس گیبت آوش نیشت آبوارتسکامپاتیبل اندرونگن؟"
   },
   {
     "id": 761,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Versionen",
     "question": "Was sind Änderungen, die mit PHP 8 eingeführt wurden?",
-    "antwort": "دو جواب نیمد و نوللسیف؟"
+    "antwort": "دوتا جواب نیمد آرگوメントز و نول سیف اوپراتور؟"
   },
   {
     "id": 762,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Versionen",
     "question": "Was bedeutet JIT?",
-    "antwort": "جاست داره؟"
+    "antwort": "جاست این تایم کامپیلاسیون؟"
   },
   {
     "id": 763,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Versionen",
     "question": "Was bedeutet „deprecated“?",
-    "antwort": "وارنونگ داره؟"
+    "antwort": "اس ایست فرالت کان این در اکتیولن ورسیون؟"
   },
   {
     "id": 764,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Konstante",
     "question": "Wie wird eine Konstante in PHP erzeugt?",
-    "antwort": "دیفاین و کانست بدون پرانتز؟"
+    "antwort": "دوتا جواب دیفاین نیم ولیو کیس و کانست نیم ولیو؟"
   },
   {
     "id": 765,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Konstante",
     "question": "Wie ist der Scope (Geltungsbereich) von Konstanten in PHP festgelegt?",
-    "antwort": "کانستانته زیند (ایما) گلوبال؟"
+    "antwort": "کانستانته زایند ایممر گلوبال؟"
   },
   {
     "id": 766,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Konstante",
     "question": "Was ist eine Magic Konstante?",
-    "antwort": "دوتا جواب دیر و کلاس نیم ؟"
+    "antwort": "دوتا جواب دوخط زیر دیر و کلاس نیم کلاس؟"
   },
   {
     "id": 767,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Konstante",
     "question": "Was ist eine Predefined Konstante?",
-    "antwort": "پی اچ پی ورژن و ترو?"
+    "antwort": "دوتا جواب پی اچ پی ورژن و ترو؟"
   },
   {
     "id": 768,
@@ -1292,7 +1292,7 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "php.ini",
     "question": "Welche Einstellungen können mit Hilfe der php.ini beispielsweise geändert werden?",
-    "antwort": "همه جواب ها درست میباشند توجه فرماییید؟"
+    "antwort": "چهار جواب اشپایشرلیمیت داتای آپلودلیمیت ماکسیماله آوسفورونگزیت فن اسکریپتن آنزایگه فن فهلرن؟"
   },
   {
     "id": 771,
@@ -1306,14 +1306,14 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "php.ini",
     "question": "Wie kann in der php.ini das anzeigen von PHP Code Errors erzwungen werden?",
-    "antwort": "جواب دیسپلی ایرورز آن"
+    "antwort": "دو جواب دیسپلی ایرورز آن و پی اچ پی فلگ دیسپلی ایرورز آن؟"
   },
   {
     "id": 773,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "php.ini",
     "question": "Wo können PHP Erweiterungen aktiviert bzw. deaktiviert werden?",
-    "antwort": "پی اچ پی دات ایانای"
+    "antwort": "سه جواب پی اچ پی دات ای ان ای اچ تی تی پی دی دات کان اف دات اچ تی اکسس؟"
   },
   {
     "id": 774,
@@ -1327,14 +1327,14 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQLite",
     "question": "Wie sieht die Dateistruktur einer SQLite Datenbank aus?",
-    "antwort": "اینه داتای این در آلن اینفرماتسیونن؟"
+    "antwort": "اینه داتای این در آلن اینفرماتسیونن انتهالتن زایند؟"
   },
   {
     "id": 776,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQLite",
     "question": "Welche SQL Befehle sind in einer SQLite Datenbank möglich?",
-    "antwort": "همه درستن توجه کن؟"
+    "antwort": "چهار درست سلکت اینسرت دیلیت جوین؟"
   },
   {
     "id": 777,
@@ -1348,35 +1348,35 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQLite",
     "question": "Welche der folgenden Aussagen über SQLite sind wahr und welche sind falsch??",
-    "antwort": "دو درست این اس کیو لایت دارن دوتاشون؟"
+    "antwort": "دو درست این اس کیو لایت کونن داتن بانک تابله میت اینر ترانزاکسیون گسیشرت وردن این اس کیو لایت کان دی داتن بانک گروسه دورچ هینزوفوگن فن اشپایشرپلاتز دینامیش فرگروسرت وردن؟"
   },
   {
     "id": 779,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "statische Methoden",
     "question": "Was ist eine Eigenschaft von statischen Methoden in PHP?",
-    "antwort": "آوف گروفن وردن اوهنه؟"
+    "antwort": "اشتاتیشه متودن کونن آوف گروفتن وردن اوهنه اینه اینشتانس در کلاسه زو ارزویگن؟"
   },
   {
     "id": 780,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "statische Methoden",
     "question": "Wie wird eine statische Methode in PHP deklariert?",
-    "antwort": "پابلیک استاتیک جواب داره؟"
+    "antwort": "دو جواب پابلیک اشتاتیک فونکشن و پرایوت اشتاتیک فونکشن؟"
   },
   {
     "id": 781,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "statische Methoden",
     "question": "Welche der folgenden Aussagen über statische Methoden ist korrekt?",
-    "antwort": "کونن دیرکت آوف استاتیشه متودن؟"
+    "antwort": "اشتاتیشه متودن کونن دیرکت آوف اشتاتیشه متودن در سلبان کلاسه زوگریفن؟"
   },
   {
     "id": 782,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "statische Methoden",
     "question": "Welche der folgenden Aussagen über statische Methoden in PHP ist falsch?",
-    "antwort": "کونن این عنتا کلاسه عوباشرایبن؟"
+    "antwort": "اشتاتیشه متودن کونن دیرکت آوف گروفتن وردن اوهنه دی کلاسه زو اینشتانزییرن؟"
   },
   {
     "id": 783,
@@ -1390,35 +1390,35 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Namespaces",
     "question": "Wofür werden Namespaces in PHP verwendet?",
-    "antwort": "دوجواب عوم ودامیت مهراره؟"
+    "antwort": "دوتا جواب اوم مهرره کلاسن زو گروپیرن دامیت مهرره کلاسن میت دم سلبان نیمن؟"
   },
   {
     "id": 785,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Namespaces",
     "question": "Welcher PHP Code deklariert den Namespace \"Wifi\"?",
-    "antwort": "نیم اسپیس ویفی خالی؟"
+    "antwort": "پی اچ پی نیم اسپیس ویفی؟"
   },
   {
     "id": 786,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Namespaces",
     "question": "Was muss beim Definieren eines Namespaces beachtet werden?",
-    "antwort": "دی دکلاراتسیون دس نیم اسپیس موس؟"
+    "antwort": "دی دکلاراتسیون دس نیم اسپیس موس الس ارستس ایم پی اچ پی فایل اشتهن؟"
   },
   {
     "id": 787,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Namespaces",
     "question": "Was bedeutet folgende Codezeile?\n<?php namespace Code\\Wifi; ?>",
-    "antwort": "اس ویرد در نیم؟"
+    "antwort": "اس ویرد در نیم اسپیس ویفی اینهال دی نیم اسپیس کد دکلاریرت؟"
   },
   {
     "id": 788,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Namespaces",
     "question": "Wofür wird \"use\" in Zusammenhang mit Namespace in PHP verwendet?",
-    "antwort": "دوتا إس کنن ها جوابن؟"
+    "antwort": "دوتا جواب اس کان این آلیاس فور اینن نیم اسپیس گشتست وردن اس کان زوم ایمپورتیرن فن نیم اسپیسز وروندن وردن؟"
   },
   {
     "id": 789,
@@ -1432,27 +1432,28 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Connect",
     "question": "Welche Aussagen treffen auf die Extension MySQLi zu?",
-    "antwort": "  دوتا مایسکیولی اونترشتوتز و کن آبجکت؟"
+    "antwort": "دوتا می اس کیو ال آی اونترشتوتزت پره پارد استیتمنتز می اس کیو ال آی کان آبجکت اورینتیرد و پرازدال گنوتزت وردن؟"
   },
   {
     "id": 791,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Connect",
     "question": "Wie wird eine Verbindung zur Datenbank mit MySQLi erstellt?",
-    "antwort": "دوتا مای اسکیولی آندرلاین و نیو؟"
+    "antwort": "دوتا نیو می اس کیو ال آی و می اس کیو ال آی کانکت؟"
   },
   {
     "id": 792,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Connect",
     "question": "Wie kann überprüft werden, ob der Verbindungsaufbau zur Datenbank fehlgeschlagen ist?\nAnnahme: mysqli error reporting is enabled (MYSQLI_REPORT_ERROR)\n$conn = new mysqli( $server, $user, $pwd );",
-    "antwort": "ایف کان کانکت ایرور درست هست؟"  },
+    "antwort": "ایف کان کانکت ایرور؟"
+  },
   {
     "id": 793,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Connect",
     "question": "Wie wird eine bestehende Verbindung zur Datenbank mit MySQLi wieder geschlossen?\n$conn = mysqli_connect($server, $user, $pwd );",
-    "antwort": "همه درستن توجه کن؟"
+    "antwort": "دوتا می اس کیو ال آی کلوز کان و ون داس پی اچ پی اسکریپت انده ویرد دی فربیندونگ اتوماتیش بئندت؟"
   },
   {
     "id": 794,
@@ -1487,7 +1488,7 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Query (Select From Where)",
     "question": "Mit welchem SQL Statement können alle Personen gewählt werden, deren Nachname mit \"A\" beginnt?",
-    "antwort": "ناخنامه لایک آ درصدی؟"
+    "antwort": "سلکت ستار فروم پرزونن وهر ناخنامه لایک آ درصد؟"
   },
   {
     "id": 799,
@@ -1501,14 +1502,14 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Limit und Order",
     "question": "Wie können Sie mittels einem SELECT-Query die Einträge 21-40 aus einer Tabelle auswählen?",
-    "antwort": "لیمیت بیست وبیست وبیست  آفست بیست؟"
+    "antwort": "دوتا سلکت ستار فروم پرزون لیمیت 20 کاما 20 و لیمیت 20 آفست 20؟"
   },
   {
     "id": 801,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Limit und Order",
     "question": "Wie lautet das SELECT-Query um alle Personen aufsteigend mit ihrem Nachnamen zu wählen?",
-    "antwort": "دوتا ناخنامه و ناخنامه آاسسی؟"
+    "antwort": "دوتا سلکت ستار فروم پرزون اوردر بای ناخنامه و اوردر بای ناخنامه اس سی؟"
   },
   {
     "id": 802,
@@ -1522,7 +1523,8 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Limit und Order",
     "question": "Es soll aus einer Datentabelle für Buchungszeilen, die ca. 100000 Einträge enthält, nur die ersten vier  gewählt werden die das Wort \"Lokal\" enthalten. Der neuerste Eintrag soll oben stehen, wobei das Feld Datum den Feldtyp DATE hat?",
-    "antwort": "سلکت ستار فروم بوشونگن وهر تکست لایک درصد لوکال درصد اوردر بای داتوم دی ای اس سی لیمیت چهار؟"  },
+    "antwort": "سلکت ستار فروم بوشونگن وهر تکست لایک درصد لوکال درصد اوردر بای داتوم دی ای اس سی لیمیت 4؟"
+  },
   {
     "id": 804,
     "module": "Programmieren mit PHP - Aufbau",
@@ -1549,14 +1551,14 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP XML Parser",
     "question": "Wie wird der XML Parser in PHP aktiviert?",
-    "antwort": "مساوی ایکس ام ال آندرلاین؟"
+    "antwort": "دلار پارسر ایکس ام ال پارسر کرییت؟"
   },
   {
     "id": 808,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP XML Parser",
     "question": "Welche Funktion übernimmt der XML Parser in PHP?",
-    "antwort": "لسن عند داره اولش ؟"
+    "antwort": "لیزن و فراربایتن فن ایکس ام ال داتن؟"
   },
   {
     "id": 809,
@@ -1570,49 +1572,49 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Filters",
     "question": "Was sind PHP Filter?",
-    "antwort": "میت دنن من؟"
+    "antwort": "فونکسیونن میت دنن مان داتن ساوبرن و والیدیرن کان؟"
   },
   {
     "id": 811,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Filters",
     "question": "Welche PHP Funktion wird benötigt um eine Variable mit einem Filter zu validieren und zu säubern?",
-    "antwort": "فیلترآندرلاین وار و پرانتز خالی همین؟"
+    "antwort": "فیلتر فار؟"
   },
   {
     "id": 812,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Filters",
     "question": "Was liefert nachfolgender PHP Code?\n$str = 'http://www.testme.com/säubern?nachname=Müller-Huber';\n$newstr = filter_var( $str, FILTER_SANITIZE_URL );\necho $newstr;",
-    "antwort": "ملرپنج حرفی؟"
+    "antwort": "ه تی تی پی دبلیو دبلیو دبلیو تست می دات کام سوبورن ناخنامه مولر هوبور؟"
   },
   {
     "id": 813,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Filters",
     "question": "Was ist der Unterschied zwischen FILTER_SANITIZE_EMAIL und FILTER_VALIDATE_EMAIL?",
-    "antwort": "ایمیل لیفارت ترو اودا فالز؟"
+    "antwort": "فیلتر والیدیت ایمیل لیفرت ترو اودر فالس وایل فیلتر سانیتیز ایمیل آل این ای میل ادرس نیشت ارلوبتن زایشن آوس دم اشترینگ انتفرنت؟"
   },
   {
     "id": 814,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "try, catch, finally",
     "question": "Wofür wird ein try...catch Statement eingesetzt?",
-    "antwort": "دو جواب درکش و پی اچ پی عرور؟"
+    "antwort": "دوتا در کچ کد بلوک فنگت این اکسپشن آوس دم تری بلوک آوف داس اسکریپت ویرد وایتر آوسگفورت پی اچ پی ایرور آوسگنومن پارز ایرور وردن آبگفانگن داس اسکریپت بریشت نیشت آب اوند لوفت وایتر؟"
   },
   {
     "id": 815,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "try, catch, finally",
     "question": "Kann mit try...catch PHP Error und Exceptions abgefangen werden?",
-    "antwort": "یا اس موس ایم کچ تروبل؟"
+    "antwort": "جا اس موس ایم کچ تروبل؟"
   },
   {
     "id": 816,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "try, catch, finally",
     "question": "Welche Ausgabe ist zu sehen, wenn man für folgenden Code annimmt, dass eine Division mit 0 eine Exception wirft?\ntry {\n  echo divide(5, 0);\n} finally {\n  echo 'ENDE_';\n}\necho 'NEXT';",
-    "antwort": "عنده آندرلاین جواب درسته؟"
+    "antwort": "انده آندرلاین؟"
   },
   {
     "id": 817,
@@ -1626,35 +1628,35 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Access Modifiers",
     "question": "Was ist der Unterschied zwischen \"public\" und \"private\" Access Modifiers?",
-    "antwort": "زوگریف نعر ایناهالب در کلاس؟"
+    "antwort": "پابلیک ارلابت دن زوگریف فن اورال وایل پرایوت دن زوگریف نور اینهال در کلاسه ارلابت؟"
   },
   {
     "id": 819,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Access Modifiers",
     "question": "Was sind access modifiers in PHP?",
-    "antwort": "دراز ترین جواب؟"
+    "antwort": "شلوسل ورتر میت دنن دی زیشتبارکایت فن کلاسن ایگن شافتن اوند متودن دفینیرد وردن؟"
   },
   {
     "id": 820,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Access Modifiers",
     "question": "Was ist der Standard access modifier von Klassen Eigenschaften und Methoden?",
-    "antwort": "پابلیک جواب درست هستتش؟"
+    "antwort": "پابلیک؟"
   },
   {
     "id": 821,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Access Modifiers",
     "question": "Welchen Zugriffsmodizifierer muss der statische Methode \"doit\" zusätzlich geben werden, damit der Aufruf funktioniert?\nclass Demo {   \n   static /*...*/ function doit() {}  \n}  \nDemo::doit();",
-    "antwort": "پابلیک جواب درست هستتش؟"
+    "antwort": "پابلیک؟"
   },
   {
     "id": 822,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "PHP Access Modifiers",
     "question": "Was ist der Unterschied zwischen dem Access Modifier protected und private?",
-    "antwort": "کونن نعر ایناهلب در کلاسه؟"
+    "antwort": "پرایوت متودن کونن نور اینهال در کلاسه اوند نیشت وی بای پروتکتد متودن آوش آبگلایتته کلاسن وروندن؟"
   },
   {
     "id": 823,
@@ -1668,42 +1670,42 @@
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Class Constants",
     "question": "Können PHP Klassen Konstanten von der Kind-Klasse überschrieben werden?",
-    "antwort": "یا زی کونن فون در کیند کلاسه؟"
+    "antwort": "جا زی کونن فن در کیند کلاسه اورشریبن وردن؟"
   },
   {
     "id": 825,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "Class Constants",
     "question": "Wie kann von außerhalb auf eine Klassenkonstante zugegriffen werden (siehe Beispielcode)?\nclass Server {\n   const PORT = 5000;\n   /*...*/\n}\n$test = new Server();",
-    "antwort": "دو جواب درست آنهایی ک دو نقطه (دارن)؟"
+    "antwort": "دوتا اکو تست دوخط پورت و اکو سرور دوخط پورت؟"
   },
   {
     "id": 826,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Insert, Update, Delete",
     "question": "Welche der folgenden Optionen beschreibt die korrekte Syntax für den SQL INSERT-Befehl?",
-    "antwort": "یک جواب اینتو تابله نیم کلومن یک و دو؟"
+    "antwort": "اینسرت اینتو تابله نیم کالمن1 کالمن2 ولیوز ولیو1 ولیو2؟"
   },
   {
     "id": 827,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Insert, Update, Delete",
     "question": "Welche der folgenden Optionen beschreibt die korrekte Syntax für den SQL UPDATE-Befehl?",
-    "antwort": "تابله نیم ست کلومن یک مساوی ولیو یک؟"
+    "antwort": "آپدیت تابله نیم ست کالمن1 ولیو1 کالمن2 ولیو2 وهر کاندیسیون؟"
   },
   {
     "id": 828,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Insert, Update, Delete",
     "question": "Welche der folgenden Optionen beschreibt die korrekte Syntax für den SQL DELETE-Befehl?",
-    "antwort": "دیلیت فروم تابله بدون ستاره؟"
+    "antwort": "دیلیت فروم تابله نیم وهر کاندیسیون؟"
   },
   {
     "id": 829,
     "module": "Programmieren mit PHP - Aufbau",
     "topic": "SQL Insert, Update, Delete",
     "question": "Was ist der Unterschied zwischen SQL INSERT und SQL REPLACE?",
-    "antwort": "ریپلیس فونکتیونیرد وی اینسرت"
+    "antwort": "ریپلیس فونکتیونیرد وی اینسرت میت در آوسنامه ون آلریدی این اینتریگ میت گلایشم پرایمری کی اور یونیک ایندکس فورهاندن ایست ویرد در آلته اینتریگ فورهر گلیشت؟"
   },
   {
     "id": 830,
@@ -1717,14 +1719,14 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "PHP und HTML (Code einbetten)",
     "question": "Wie wird PHP Code in HTML eingebettet?",
-    "antwort": "علامت سوال پی اچ پی؟"
+    "antwort": "میت پی اچ پی کد؟"
   },
   {
     "id": 644,
     "module": "Programmieren mit PHP - Basis",
     "topic": "PHP und HTML (Code einbetten)",
     "question": "Wo wird der PHP Code “abgearbeitet“?",
-    "antwort": "آوف در سرور زایت"
+    "antwort": "آوف در سرور زایت وب سرور؟"
   },
   {
     "id": 645,
@@ -1745,27 +1747,28 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "PHP und HTML (Code einbetten)",
     "question": "Wie kann ein Kommentar im PHP Code eingefügt werden?",
-    "antwort": "سه تا ستاره دوخط هشتگ؟"
+    "antwort": "سه تا اف انفور اشلوس و دوخط و هشتگ؟"
   },
   {
     "id": 648,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datentypen, Variablen",
     "question": "Was ist ein gültiger Variablenname in PHP?",
-    "antwort": "دوتا دلار کمل و آندرلاین؟"
+    "antwort": "دوتا دلار تکست یوزر 1 و دلار تکست یوزر1؟"
   },
   {
     "id": 649,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datentypen, Variablen",
     "question": "Welchen Variablen Scope (Geltungsbereich) kennt PHP?",
-    "antwort": "سه تا گلوبال (لوکال )استاتیک؟"  },
+    "antwort": "سه تا گلوبال لوکال اشتاتیک؟"
+  },
   {
     "id": 650,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datentypen, Variablen",
     "question": "Wie werden Variablen (Beispiel $x) in PHP deklariert?",
-    "antwort": "ورییبل وردن (بایم) ارستن ؟"
+    "antwort": "واریابلن وردن بایم ارستن زو وایزن اینس ورتس اتوماتیش دکلاریرت؟"
   },
   {
     "id": 651,
@@ -1779,70 +1782,70 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datentypen, Variablen",
     "question": "In welchem Zahlenformat können Integer in PHP angegeben werden?",
-    "antwort": "هر چهارتا درست هستن؟"
+    "antwort": "چهار تا دزی مال هگزا دزی مال اکتال بینر؟"
   },
   {
     "id": 653,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Conditions",
     "question": "Wie sieht die Syntax für eine einfache Kontrollstruktur eines bedingten Codeblocks aus?",
-    "antwort": "دو جواب اندایف و کد ستاره پرانتز بدون تِن؟"
+    "antwort": "دوتا ایف کاندیسیون کد و ایف کاندیسیون کولون کد اندیف؟"
   },
   {
     "id": 654,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Conditions",
     "question": "Welche oder welches der folgenden Code-Beispiele ist bzw. sind syntaktisch richtig?",
-    "antwort": "دو جواب آخرش اند ایف و الز پرانتز ستاره؟"
+    "antwort": "دوتا ایف کاندیسیون الز ایف کاندیسیون الز و ایف کاندیسیون الز ایف کاندیسیون الزیف کاندیسیون؟"
   },
   {
     "id": 655,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Conditions",
     "question": "Wofür wird continue in einem if-else-Konstrukt verwendet?",
-    "antwort": "گار نیشت دا کانتینیو"
+    "antwort": "گار نیشت دا کانتینیو نور این شلایفن وروندت ویرد؟"
   },
   {
     "id": 656,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Conditions",
     "question": "Welcher Wert steht in der Variable $b nach dem folgenden Code?\n$a = 5;\nif ( $a != '5' ) { $b = 1; }\nelse if ( $a < 5 || $a > 6 ) { $b = 2; }\nelse if ( $a === '5' ) { $b = 3; }\nelse { $b = 4; }",
-    "antwort": "چهار تنها جواب هستش ؟"
+    "antwort": "4؟"
   },
   {
     "id": 657,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Operatoren, Logikoperatoren",
     "question": "Was ist der Unterschied zwischen dem Vergleichsoperator == und ===?",
-    "antwort": "سه تا مساوی دره اولش؟"
+    "antwort": "سه برابر گیلت نور ون ورت اوند داتن تیپ گلایش زایند بای دو برابر ون نور در ورت گلایش ایست؟"
   },
   {
     "id": 658,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Operatoren, Logikoperatoren",
     "question": "Welcher Operator wird verwendet um ungleiche Werte zu erkennen?",
-    "antwort": "دوتا جواب علامت تعجلا؟"
+    "antwort": "دوتا نیشت گلایش و نیشت استرنگ گلایش؟"
   },
   {
     "id": 659,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Operatoren, Logikoperatoren",
     "question": "Was wird in $x für ein Wert gespeichert?\n$x = 4**2;\n$x += 4;  \n$x = $x / 4;\n$x = $x % 3;\necho $x;",
-    "antwort": "دو جواب درست هستش؟"
+    "antwort": "2؟"
   },
   {
     "id": 660,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Operatoren, Logikoperatoren",
     "question": "Was ist der Error Control Operator?",
-    "antwort": "اتساین درست هستش؟"
+    "antwort": "@؟"
   },
   {
     "id": 661,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Operatoren, Logikoperatoren",
     "question": "Wofür steht der Operator &&?",
-    "antwort": "اند درسته؟"
+    "antwort": "اند؟"
   },
   {
     "id": 662,
@@ -1856,7 +1859,7 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "mathematische Funktionen",
     "question": "Welche Syntax für die Verwendung der Funktion max() ist richtig?",
-    "antwort": "دو جوابه کوتاه ترینا هستن؟"
+    "antwort": "دوتا ماکس اعداد کاما جدا و ماکس آرایه؟"
   },
   {
     "id": 664,
@@ -1877,28 +1880,28 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "mathematische Funktionen",
     "question": "Welche Bedingung liefert true?",
-    "antwort": "آبس منفی پنج؟"
+    "antwort": "آبس منفی پنج برابر آبس پنج؟"
   },
   {
     "id": 667,
     "module": "Programmieren mit PHP - Basis",
     "topic": "prozedurale bzw. strukturierte Programmierung",
     "question": "Wie wird eine Funktion in PHP erstellt?",
-    "antwort": "فانکشن داره اولش؟"
+    "antwort": "دوتا فونکشن مای فونک و مای فونک مساوی فونکشن؟"
   },
   {
     "id": 668,
     "module": "Programmieren mit PHP - Basis",
     "topic": "prozedurale bzw. strukturierte Programmierung",
     "question": "Was macht eine Funktion deren Name mit & beginnt?",
-    "antwort": "در روک گابه ورت؟"
+    "antwort": "در روک گابه ورت ایست اینه رفرنس؟"
   },
   {
     "id": 669,
     "module": "Programmieren mit PHP - Basis",
     "topic": "prozedurale bzw. strukturierte Programmierung",
     "question": "Welche Ausgabe liefert folgender Code?\nfunction add_five( &$v ) { $v += 5; return $v; }\n$n = 2;\n$c = add_five( $n );\necho ($c + $n);",
-    "antwort": "چهارده درست هست؟"
+    "antwort": "14؟"
   },
   {
     "id": 670,
@@ -1926,35 +1929,35 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Schleifen",
     "question": "Aus welchen drei Teilen besteht die Angabe in einer for Schleife?",
-    "antwort": "اینیتیالیزیرونگ و بدینگونگ؟"
+    "antwort": "اینیتسیالیزیرونگ بединگونگ اینکرمنتیرونگ؟"
   },
   {
     "id": 674,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Schleifen",
     "question": "Wie lautet die Ausgabe zu folgendem Code?\n$ausgabe = '';\nfor ( $i = 1; $i<5; $i+=2 ) {\n    $ausgabe += $i;\n}\necho $ausgabe;",
-    "antwort": "چهار تنها جواب درسته؟"
+    "antwort": "13؟"
   },
   {
     "id": 675,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Schleifen",
     "question": "Wozu wird continue innerhalb einer Schleife verwendet?",
-    "antwort": "شلایفه ویرد بئندت؟"
+    "antwort": "در آکتوله دورچلاف در شلایفه ویرد بئندت اوند اس فولگت سوفورت در نکسته دورچلاف؟"
   },
   {
     "id": 676,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Schleifen",
     "question": "Wofür stehen die beiden Variablen $a und $b im folgenden Codebeispiel?\n$person_age = array();\n$person_age[ 'Peter' ] = 27;\n$person_age[ 'Anna' ] = 38;\nforeach( $person_age as $a => $b ) { /*…*/ }",
-    "antwort": "آ انتهالت دن نیمن در پرزون؟"
+    "antwort": "آ انتهالت دن نیمن در پرزون بی انتهالت داس آلتر در پرزون؟"
   },
   {
     "id": 677,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Arrays",
     "question": "Kann PHP in Arrays Elemente unterschiedlichen Datentyps gespeichert werden?",
-    "antwort": "کوتاه ترین جواب یعنی یا درست؟"
+    "antwort": "جا؟"
   },
   {
     "id": 678,
@@ -1982,14 +1985,14 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Arrays",
     "question": "Was liefert der folgende Code?\n$arr = [ 1,2,3 ];  \n$s = 0;\narray_map( function($a) { return $s + $a; }, $arr );\necho $s;",
-    "antwort": "صفر جواب درست هست؟"
+    "antwort": "0؟"
   },
   {
     "id": 682,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Objekte",
     "question": "Wie kann man in PHP ein leeres Objekt erstellen?",
-    "antwort": "دو جواب نیو استیدی آبجکت پرانتز؟"
+    "antwort": "دوتا آبج مساوی نیو اشتد کلاس و آبج مساوی آبجکت کروشه خالی؟"
   },
   {
     "id": 683,
@@ -2010,7 +2013,7 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Objekte",
     "question": "Wie kann man einem Objekt $obj ein neues Attribut „neu“ geben und den Wert 1 dort speichern?\n$obj = new stdClass();",
-    "antwort": "آبج فلش نوی بدون گیومه مساوی یک؟"
+    "antwort": "آبج فلش نوی مساوی 1؟"
   },
   {
     "id": 686,
@@ -2038,28 +2041,28 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Errorhandling, Debuggen",
     "question": "Wie wird sichergestellt, dass alle PHP Fehler ausgegeben werden?",
-    "antwort": "اینی ست دیسپلی ایرورز یک ایرور ریپورتینگ ای آل؟"
+    "antwort": "اینی ست دیسپلی ایرورز 1 ایرور ریپورتینگ ای آل؟"
   },
   {
     "id": 690,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Errorhandling, Debuggen",
     "question": "Welche Werte können bei error_reporting mitgegeben werden?",
-    "antwort": "همه جواب ها درست هستن؟"
+    "antwort": "چهار تا ای آل ای ایرور ای وارنینگ ای نوتایس؟"
   },
   {
     "id": 691,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Errorhandling, Debuggen",
     "question": "Mit welchem Befehl können Sie den Wert und den Datentyp einer Variable ausgeben?",
-    "antwort": "وار دامپ درست هستش؟"
+    "antwort": "وار دامپ؟"
   },
   {
     "id": 692,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Arbeiten mit Strings",
     "question": "Was liefert folgender Befehl?\necho mb_strpos(\"Hello world!\", \"o\");",
-    "antwort": "چهار درست هست؟"
+    "antwort": "4؟"
   },
   {
     "id": 693,
@@ -2080,49 +2083,49 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Arbeiten mit Strings",
     "question": "Wozu dient die Funktion nl2br() in PHP?",
-    "antwort": "فوگت فور فور ()داره؟"
+    "antwort": "فوگت فور فور آلن لاین بریکز این اف آر ایم اشترینگ بر تگز این؟"
   },
   {
     "id": 696,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Arbeiten mit Strings",
     "question": "Was ist der Unterschied zwischen strpos() und strrpos()?",
-    "antwort": "استروپوز فیندت ()داس یک()؟"
+    "antwort": "اشتر پوز فایندت داس 1 فور کامن اینس زایشن اشتر آر پوز داس لتسته؟"
   },
   {
     "id": 697,
     "module": "Programmieren mit PHP - Basis",
     "topic": "reguläre Ausdrücke",
     "question": "Welcher der folgenden Angaben erstellt einen regulären Ausdruck in PHP?",
-    "antwort": "دوتا درست گیومه دارن کامل بعد مساوی؟"
+    "antwort": "دوتا رگ مساوی اسلش تست اسلش آی و رگ مساوی اسلش کاراکترهای دیگه اسلش؟"
   },
   {
     "id": 698,
     "module": "Programmieren mit PHP - Basis",
     "topic": "reguläre Ausdrücke",
     "question": "Was bedeutet folgender regulärer Ausdruck \"/[abc]/\" ?",
-    "antwort": "عین بوخشتابن آ ب اودا س؟"
+    "antwort": "فینده اینن بوششتابن آ بی اودر سی این ایم اشترینگ؟"
   },
   {
     "id": 699,
     "module": "Programmieren mit PHP - Basis",
     "topic": "reguläre Ausdrücke",
     "question": "Was ist der Unterschied zwischen den beiden regulären Ausdrücken?\n$r1 = \"/^[a]/\";\n$r2 = \"/[^a]/\";",
-    "antwort": "موس میت عینم آ بگینن؟"
+    "antwort": "آر1 موس میت ایم آ بگینن آر2 فینده آلز آوسر دم بوششتابن آ؟"
   },
   {
     "id": 700,
     "module": "Programmieren mit PHP - Basis",
     "topic": "reguläre Ausdrücke",
     "question": "Welche Angabe bedeutet es muss mindestens einmal, kann aber auch öfter vorkommen?",
-    "antwort": "به علاوه و یک دارن جوابها دوتا هستن؟"
+    "antwort": "دوتا اسلش آ-زد پلاس اسلش و اسلش آ-زد کرلی1 کاما اسلش؟"
   },
   {
     "id": 701,
     "module": "Programmieren mit PHP - Basis",
     "topic": "reguläre Ausdrücke",
     "question": "Wie wird ein regulärer Ausdruck case-insensitive (Groß-, Kleinschreibung egal) angegeben?",
-    "antwort": "اسلش (آ-زد) ستار اسلش آی؟"
+    "antwort": "اسلش آ-زد ستار اسلش آی؟"
   },
   {
     "id": 702,
@@ -2136,7 +2139,7 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datum und Uhrzeit",
     "question": "Wie erzeugen Sie einen Timestamp der aktuellen Uhrzeit mit PHP?",
-    "antwort": "تایم پرانتز جواب درسته؟"
+    "antwort": "تایم پرانتز؟"
   },
   {
     "id": 704,
@@ -2150,49 +2153,49 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datum und Uhrzeit",
     "question": "Wie erstellen Sie eine Datumsausgabe TT.MM.JJJJ?",
-    "antwort": "دیت دی .ام .وای کوچیک تایم؟"
+    "antwort": "دیت دی دات ام دات وای تایم؟"
   },
   {
     "id": 706,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Datum und Uhrzeit",
     "question": "Was liefert folgender PHP Code?\n$date = strtotime( '2025-01-01' );\necho date( 'j. M Y', $date );",
-    "antwort": "یک نقطه جان ؟"
+    "antwort": "1 دات یان 2025؟"
   },
   {
     "id": 707,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Session/Cookies",
     "question": "Wie erzeugen Sie mit PHP einen Cookie am Client?",
-    "antwort": "ست کوکی درست هست؟"
+    "antwort": "ست کوکی تست 1 تایم پلاس86400 اسلش؟"
   },
   {
     "id": 708,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Session/Cookies",
     "question": "Wie können Sie den Cookie „test“ mittels PHP löschen?",
-    "antwort": "ست کوکی درست هست؟"
+    "antwort": "ست کوکی تست خالی تایم ماینوس3600؟"
   },
   {
     "id": 709,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Session/Cookies",
     "question": "Wo werden Informationen (Werte) von $_SESSION und $_COOKIE gespeichert?",
-    "antwort": "دلار کوکی آم (کلاینت) دلار سشن آم سرور؟"
+    "antwort": "دلار کوکی آم کلاینت دلار سشن آم سرور؟"
   },
   {
     "id": 710,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Session/Cookies",
     "question": "Welche Funktion bzw. Befehl muss am Beginn aufgerufen werden, wenn man auf die Variable $_SESSION zugreifen möchte?",
-    "antwort": "سشن آندرلاین اشتارت پرانتز باز و بسته؟"
+    "antwort": "سشن اشتارت؟"
   },
   {
     "id": 711,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Session/Cookies",
     "question": "Wozu verwendet man die Funktion session_create_id()?",
-    "antwort": "اینه نیوه سشن آید فور دی بشتئنده سشن؟"
+    "antwort": "ارزویگت اینه نیوه سشن آید فور دی بشتئنده سشن؟"
   },
   {
     "id": 712,
@@ -2206,21 +2209,21 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "GET und POST",
     "question": "Welchen Datentyp haben die Variablen $_GET und $_POST?",
-    "antwort": "عری تنها جواب درست هستش؟"
+    "antwort": "اری؟"
   },
   {
     "id": 714,
     "module": "Programmieren mit PHP - Basis",
     "topic": "GET und POST",
     "question": "Wo finden sie die Eingabe in PHP nach dem Abschicken des folgenden Formulares?\n<form action=\"?\" method=\"post\">\n   <input type=\"text\" id=\"user\" name=\"username\"  placeholder=\"Benutzername\">\n   <button>Abschicken</button>\n</form>",
-    "antwort": "پوست یوزرنیم کامل نوشت شه؟"
+    "antwort": "دلار پست یوزر نیم؟"
   },
   {
     "id": 715,
     "module": "Programmieren mit PHP - Basis",
     "topic": "GET und POST",
     "question": "Wenn die folgende URL aufgerufen wurde, was findet sich in der Variable $_GET?\nhttp://www.example.com/test.php?x=1",
-    "antwort": "دلار گت ایکس انتهالت دن ورت یک؟"
+    "antwort": "دلار گت ایکس انتهالت دن ورت 1؟"
   },
   {
     "id": 716,
@@ -2234,28 +2237,28 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Superglobals",
     "question": "Was sind superglobals in PHP?",
-    "antwort": "فوردفنیرت داره؟"
+    "antwort": "فوردیفینیرته واریابلن دی ایممر فوربار زایند اگال این ولشر فونکشن کلاس اودر داتای؟"
   },
   {
     "id": 718,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Superglobals",
     "question": "Welche der folgenden Variablen ist eine Superglobale?",
-    "antwort": "دوتا سرور و پست؟"
+    "antwort": "دوتا دلار سرور و دلار پست؟"
   },
   {
     "id": 719,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Superglobals",
     "question": "Welche der folgenden Variablen ist eine Superglobale?",
-    "antwort": "دوتا ریکوئست و سشن؟"
+    "antwort": "دوتا دلار ریکوئست و دلار سشن؟"
   },
   {
     "id": 720,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Superglobals",
     "question": "Welche Information findet sich in der Superglobalen $_SERVER?",
-    "antwort": "دوتا اچ تی تی پی اس و ریموت آدر؟"
+    "antwort": "دوتا دلار سرور اچ تی تی پی اس و دلار سرور ریموت آدر؟"
   },
   {
     "id": 721,
@@ -2269,77 +2272,77 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Fileupload",
     "question": "In welcher Superglobale hat man in der upload.php Zugriff auf eine upgeloadete Datei (siehe HTML Codebeispiel)?\n<form method=\"post\" action=\"upload.php\" enctype=\"multipart/form-data\">\n  <input type=\"file\" name=\"file\" id=\"datei\"><button>Abschicken</button>\n</form>",
-    "antwort": "دلار آندرلاین فایلز ( گیومه تکی  فایل)؟"
+    "antwort": "دلار فایلز فایل؟"
   },
   {
     "id": 723,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Fileupload",
     "question": "Wo wird eine upgeloadete Datei am Server gespeichert (siehe HTML Codebeispiel)?\n<form method=\"post\" action=\"upload.php\" enctype=\"multipart/form-data\">\n  <input type=\"file\" name=\"file\" id=\"datei\"><button>Abschicken</button>\n</form>",
-    "antwort": "این عینم تمپورارن اردنر جواب ( درست هست)؟"
+    "antwort": "این ایم تمپورارن اردنر؟"
   },
   {
     "id": 724,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Fileupload",
     "question": "Wie können Sie die Dateigröße einer upgeloadeten Datei überprüfen, damit z.B. Fehlermeldungen bei zu großen Dateien ausgegeben werden können?",
-    "antwort": "دلار فایلز فایل سایزجوب درست وتنها جوابه؟"
+    "antwort": "دلار فایلز فایل سایز؟"
   },
   {
     "id": 725,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Fileupload",
     "question": "Welches Datenformat muss im form-Tag angegeben werden (enctype) damit upgeloadete Dateien in PHP in der Superglobelen $_FILES stehen?",
-    "antwort": "مولتی پارت فرم داتا (تنها )جوابه وهمنوبس؟"
+    "antwort": "مولتی پارت فرم داتا؟"
   },
   {
     "id": 726,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Fileupload",
     "question": "Woran kann es liegen, dass eine upgeloadete Datei nicht im Array $_FILES zu finden ist?",
-    "antwort": "مهم سه درست تنها غلط درآپلود کوچیکس؟"
+    "antwort": "سه تا داتای ایست گروسر الس این در پی اچ پی دات ای ان ای آپلود ماکس فایل سایز انگگبن ایست در انکتایپ ایم فرم تگ ایست نیشت مولتی پارت فرم داتا این در پی اچ پی دات ای ان ای فایل آپلودز آوف 0 گشتلت؟"
   },
   {
     "id": 727,
     "module": "Programmieren mit PHP - Basis",
     "topic": "File I/O",
     "question": "Mit welchem PHP Befehl können Dateien geöffnet werden, um später Inhalte zu lesen oder zu bearbeiten?",
-    "antwort": "اف اوپن پانتز باز وبسته همینن جوابه؟"
+    "antwort": "اف اوپن؟"
   },
   {
     "id": 728,
     "module": "Programmieren mit PHP - Basis",
     "topic": "File I/O",
     "question": "Welche Optionen (Modes) sind bei fopen() möglich?",
-    "antwort": "آر (دبلیو) آ() و ایکس؟"
+    "antwort": "آر دبلیو آ آ و ایکس؟"
   },
   {
     "id": 729,
     "module": "Programmieren mit PHP - Basis",
     "topic": "File I/O",
     "question": "Welche der folgenden Aussagen ist korrekt im Zusammenhang mit fopen()-Modes",
-    "antwort": "دو جواب درست آ ارزویگت و()وارزویگت؟"
+    "antwort": "دوتا دبلیو ارزویگت این نیوس فایل اودر اورشریب دم اینهالت اینس بشتئندن فایلز آ فوگت اینهالت آنس انده دس فایلز آن؟"
   },
   {
     "id": 730,
     "module": "Programmieren mit PHP - Basis",
     "topic": "File I/O",
     "question": "Worauf muss bei der Verwendung von fwrite() geachtet werden?",
-    "antwort": "داس بای و داس آلز دتا درستان؟"
+    "antwort": "دوتا داس بای اف اوپن این مود گشتست ورده در داس الشتن پارامتر این فایل پوینتر انگگبن ویرد؟"
   },
   {
     "id": 731,
     "module": "Programmieren mit PHP - Basis",
     "topic": "File I/O",
     "question": "Wie kann an den Inhalt einer bestehenden Datei etwas angefügt werden?",
-    "antwort": "داتای آ تنها درسته؟"
+    "antwort": "اف اچ اف اوپن داتای آ اف رایت اف اچ تکست اف کلوز؟"
   },
   {
     "id": 732,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Input Validierung",
     "question": "Welche Funktion in PHP kann verwendet werden, um zu überprüfen, ob eine E-Mail-Adresse gültig ist?",
-    "antwort": "فیلتر آندرلاین وار تو پرانتز تنها جواب هست؟"
+    "antwort": "فیلتر فار؟"
   },
   {
     "id": 733,
@@ -2360,7 +2363,7 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Input Validierung",
     "question": "Wie kann man in PHP überprüfen, ob ein String nur aus Buchstaben und Leerzeichen besteht?",
-    "antwort": "پرگ آندرلاین تنها جوابه درست هستش؟"
+    "antwort": "پرگ مچ اسلش ؟"
   },
   {
     "id": 736,
@@ -2374,7 +2377,7 @@
     "module": "Programmieren mit PHP - Basis",
     "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
     "question": "Wann liefert die Funktion empty($var) den Wert true?",
-    "antwort": "همه جواب ها (درست) هستند؟"
+    "antwort": "چهار تا فار مساوی 0 ون فار نیشت اکزیستیرد فار مساوی خالی فار مساوی اری خالی؟"
   },
   {
     "id": 738,
@@ -2387,22 +2390,21 @@
     "id": 739,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
-    "question": "Was entspricht der Funktion emtpy($var) und liefert das gleiche Ergebnis?",
-    "antwort": "یک جواب با علمت تعجب شرو و با فالز تمام؟"
+    "antwort": "!ایست فار || فار == فالس"
   },
   {
     "id": 740,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
     "question": "In welchem Fall gibt es einen Unterschied zwischen is_numeric( $var ) und is_float( $var )?",
-    "antwort": "دلار ور مساوی پنج نقطه چار با خط صاف؟"
+    "antwort": "فار = '5.4'؟"
   },
   {
     "id": 741,
     "module": "Programmieren mit PHP - Basis",
     "topic": "Funktionen zur Behandlung von Variablen (isset, is_null, empty)",
     "question": "Wie kann man überprüfen ob im Array $arr ein Wert mit dem Index “test” vorhanden ist?",
-    "antwort": "عری و ایسست دو جواب هستن؟"
+    "antwort": "دوتا اری کی اکزیستس تست فار و ای ست فار تست؟"
   },
   {
     "id": 1,
@@ -2416,42 +2418,42 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Request + Headers",
     "question": "Welche Aussage trifft laut HTTP-Standard für die Beschreibung einer HTTP Request Methode zu?",
-    "antwort": "دو جوابه عینه گت و عینه آنفراگه؟"
+    "antwort": "دوتا اینه گت آنفراگه زول نور داتن آبرفن اینفراگه میت متوده دیلیت زول اینه رسورس لوشن؟"
   },
   {
     "id": 3,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Request + Headers",
     "question": "Welche Cache-Richtlinien können mit dem Cache-Control Header definiert werden?",
-    "antwort": "دو جوابه مکس عیج و نو کش؟"
+    "antwort": "دوتا نو کاش و ماکس ایج؟"
   },
   {
     "id": 4,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Request + Headers",
     "question": "In welcher Syntax werden Cookies mit dem Set-Cookie Header übertragen?",
-    "antwort": "نیم مساوی ولیو دونقطه؟"
+    "antwort": "نیم ولیو نیم2 ولیو2؟"
   },
   {
     "id": 5,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Request + Headers",
     "question": "Warum ist HTTP Basic Authentication eher als unsicher an zu sehen?",
-    "antwort": "یوزر ننیم و پسورد وردن؟"
+    "antwort": "یوزر نیم اوند پاس ورت وردن نور بیس64 انکودیرد؟"
   },
   {
     "id": 6,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Status Codes",
     "question": "Was definiert der HTTP Status Code?",
-    "antwort": "ارفولگریش آبگشلوسن ورده؟"
+    "antwort": "آب این اچ تی تی پی ریکوئست ارفولگریش آبگشلوسن ورده اودر نیشت؟"
   },
   {
     "id": 7,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Status Codes",
     "question": "HTTP Response Status Codes werden in wie vielen Gruppen eingeteilt?",
-    "antwort": "پنج جوابه درسته؟"
+    "antwort": "5؟"
   },
   {
     "id": 8,
@@ -2465,14 +2467,14 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Status Codes",
     "question": "Welche der Angaben beschreiben Gruppen von HTTP Response Status Codes?",
-    "antwort": "سه جوابه غلطشون سکیور؟"
+    "antwort": "سه تا سرور ایرور ریسپانزز ریدایرکشن مسیجز ساکسسفول ریسپانزز؟"
   },
   {
     "id": 10,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTTP Status Codes",
     "question": "Mit welchen zwei Status Codes können temporäre Umleitungen von permanenten Umleitungen unterschieden werden?",
-    "antwort": "سیسدو یک و سیسدو دوجواب هست؟"
+    "antwort": "301 اوند 302؟"
   },
   {
     "id": 11,
@@ -2486,28 +2488,28 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Editor, IDE",
     "question": "Was benötigt eine vollständige IDE?",
-    "antwort": "اتوماسیون اند دیباگر؟"
+    "antwort": "سورز کد ادیتور 빌د اتوماسیون اند دیباگر؟"
   },
   {
     "id": 13,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Editor, IDE",
     "question": "Visual Studio Code Extensions werden in welcher Programmsprache erstellt?",
-    "antwort": "جاوا اسکریپت جواب درسته؟"
+    "antwort": "جیوا اسکریپت؟"
   },
   {
     "id": 14,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Editor, IDE",
     "question": "Welche Editoren werden von Webentwicklern häufig verwendet?",
-    "antwort": "همه درست هستن واقعا همه؟"
+    "antwort": "چهار تا ویژیوال اشتودیو کد وب اشتارم برکتس نت پاد پلاس پلاس؟"
   },
   {
     "id": 15,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Editor, IDE",
     "question": "Die Editoren Visual Studio Code und Atom.io wurden mit welchem Framework entwickelt?",
-    "antwort": "الکترون جی اس تنها جوابه درست هست؟"
+    "antwort": "الکترون جی اس؟"
   },
   {
     "id": 16,
@@ -2521,7 +2523,7 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Zusammenspiel HTML, CSS, Javascript",
     "question": "Wie werden HTML Tags geschrieben?",
-    "antwort": "تاگز و در اند؟"
+    "antwort": "دوتا تگز اشتهن این اشپیتزن کلامرن در اند تگ ویرد میت اسلش … اشریبن؟"
   },
   {
     "id": 18,
@@ -2535,21 +2537,21 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Zusammenspiel HTML, CSS, Javascript",
     "question": "Welche Aussage ist korrekt?",
-    "antwort": "دی نیشتس میت ایناندر زو تون ه"
+    "antwort": "جیوا اسکریپت اوند جیوا زایند زوای پروگرامیرشپراخن دی نیشتس میت ایناندر زو تون هابن؟"
   },
   {
     "id": 20,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Zusammenspiel HTML, CSS, Javascript",
     "question": "Welche HTML, CSS und Javascript Befehle passen zusammen?",
-    "antwort": "بای کلاس نیم و هشتگ؟"
+    "antwort": "دوتا پی کلاس ابزاتز گرین گت المنت بای کلاس نیم ابزاتز و پی ای دی ویکتیگ گرین گت المنت بای ای دی ویکتیگ؟"
   },
   {
     "id": 21,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTML Grundgerüst",
     "question": "Was gehört zum HTML Grundgerüst?",
-    "antwort": "سه تا درست اسکریپت غلط؟"
+    "antwort": "سه تا داک تایپ هد المنت بادی المنت؟"
   },
   {
     "id": 22,
@@ -2563,56 +2565,56 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTML Grundgerüst",
     "question": "Welche Angabe ist laut W3C Standard im <html> Tag empfohlen?",
-    "antwort": "لنگ مساوی سه نقطه جوابه؟"
+    "antwort": "لنگ …؟"
   },
   {
     "id": 24,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTML Grundgerüst",
     "question": "Worauf bezieht sich der Meta-Tag \"viewport\" im HTML-Head?",
-    "antwort": "وب سایت آوف موبایلن گراتن؟"
+    "antwort": "دوتا دار اشتلوونگ در وب زایت آوف موبایلن گراتن دار اشتلوونگ در وب زایت آنگپاست آن آنترشیدلیشن بیلد شیرم گروسن؟"
   },
   {
     "id": 25,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "HTML Grundgerüst",
     "question": "Wo wird der Inhalt des <title> Elementes grundsätzlich angezeigt?",
-    "antwort": "همه جواب ها درست هستن؟"
+    "antwort": "سه تا بسکریف تونگ دس بروزا فنسترز بسکریف تونگ دس تبز ایم بروزر ارگبنیس زایت بای زوش ماشینن؟"
   },
   {
     "id": 26,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Block, Inline, andere Displayarten",
     "question": "Wofür dient die CSS-Eigenschaft „display“ bei HTML-Elementen?",
-    "antwort": "اوب عند وی عین؟"
+    "antwort": "آب اوند وی این المنت آوف در زایت دارگشتلت ویرد؟"
   },
   {
     "id": 27,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Block, Inline, andere Displayarten",
     "question": "Welches bzw. welche der angegeben Elemente ist bzw. sind standardmäßig Block-Elemente?",
-    "antwort": "دو جواب دیو و پی درست هستن؟"
+    "antwort": "دیو و پی؟"
   },
   {
     "id": 28,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Block, Inline, andere Displayarten",
     "question": "Welches bzw. welche der angegeben Elemente ist bzw. sind standardmäßig Inline-Elemente?",
-    "antwort": "دو جواب اشتارنگ و آی؟"
+    "antwort": "اشتارنگ و آی؟"
   },
   {
     "id": 29,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Block, Inline, andere Displayarten",
     "question": "Welche Aussage ist grundsätzlich falsch?",
-    "antwort": "اینلاین دارف بلاک؟"
+    "antwort": "اینهال فن اینلاین المنتن دورفن بلاک المنتن وروندت وردن؟"
   },
   {
     "id": 30,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Block, Inline, andere Displayarten",
     "question": "Welche Werte sind bei der Eigenschaft „display“ gültig?",
-    "antwort": "سه تا غلط الاین سلف غلطه؟"
+    "antwort": "سه تا بلاک نان فلکس؟"
   },
   {
     "id": 31,
@@ -2626,42 +2628,42 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Semantik",
     "question": "Was beschreibt semantisches HTML?",
-    "antwort": "بزیهونگ فن اچ تی ام ال؟"
+    "antwort": "دی بزیهونگ فن اچ تی ام ال تگز اوند درن اینهالتن؟"
   },
   {
     "id": 33,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Semantik",
     "question": "Was sind Vorteile bei Verwendung von semantischen HTML-Codes?",
-    "antwort": "دو جواب داره دوتاش بسا داره؟"
+    "antwort": "دوتا بسرس فرشتنディس در اینهالته دورچ زوش ماشینن بسره زوگانگلیش کایت فور بنوتزر میت این شرنکونگن؟"
   },
   {
     "id": 34,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Semantik",
     "question": "Welche der angeführten Tags sind semantiklose Tags?",
-    "antwort": "دو جوابه دیو و بی درستن؟"
+    "antwort": "دیو و بی؟"
   },
   {
     "id": 35,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Semantik",
     "question": "Welche der angeführten Tags sind semantiklose Tags?",
-    "antwort": "دو جوابه اسپن و هد خالی؟"
+    "antwort": "اشپان و هد؟"
   },
   {
     "id": 36,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Hyperlinks",
     "question": "Welcher Tag erzeugt einen Hyperlink in der Webseite?",
-    "antwort": "ای اچ رف مساوی؟"
+    "antwort": "آ هرف … هایپر لینک آ؟"
   },
   {
     "id": 37,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Hyperlinks",
     "question": "Wofür dient das Attribut „target“ in einem Hyperlink?",
-    "antwort": "زیش داس فرلینکت داکومنت؟"
+    "antwort": "وو زیش داس فرلینکته داکومنت اوفنن زول؟"
   },
   {
     "id": 38,
@@ -2675,7 +2677,7 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Hyperlinks",
     "question": "Was ist ein absoluter Link?",
-    "antwort": "اچ تی تی پی داره اولش؟"
+    "antwort": "اچ تی تی پی دبلیو دبلیو دبلیو ویفی وین دات آ تی /پیج2 دات اچ تی ام ال؟"
   },
   {
     "id": 40,
@@ -2689,7 +2691,7 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Formulare",
     "question": "Welche Attribute können dem <form>-Tag wie beschrieben zugewiesen werden?",
-    "antwort": "سه تا درست غلطش تایپ اولشه؟"
+    "antwort": "سه تا اکشن آتریبیوت گیبت آن ووهین دی داتن گشیکت وردن متود آتریبیوت گیبت آن میت ولشر فرزاند متوده داتن گشیکت وردن انکتایپ آتریبیوت گیبت آن وی دی گشیکتن داتن کودیرد وردن؟"
   },
   {
     "id": 42,
@@ -2703,21 +2705,21 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Formulare",
     "question": "Welcher HTML-Tag erzeugt ein Formularelement?",
-    "antwort": "سه تا اینپوت سلکت تکستاریا؟"
+    "antwort": "سه تا اینپوت سلکت تکست اریا؟"
   },
   {
     "id": 44,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Formulare",
     "question": "Wie wird eine Radiobuttongruppe mit zwei Optionen erzeugt?",
-    "antwort": "اینپوت تایپ رادیو نیم آ؟"
+    "antwort": "اینپوت تایپ رادیو نیم آ ولیو 1 و اینپوت تایپ رادیو نیم آ ولیو 2؟"
   },
   {
     "id": 45,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Formulare",
     "question": "Was ist kein gültiger Wert für das Attribut „type“ bei einem input-Element?",
-    "antwort": "یوزرنیم جواب هستش تک جوابس؟"
+    "antwort": "یوزر نیم؟"
   },
   {
     "id": 46,
@@ -2731,49 +2733,49 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Regel",
     "question": "Eine CSS Regel beschreibt grundsätzlich …",
-    "antwort": "داس آوسزهن در..."
+    "antwort": "داس آوس زهن در میت دم سلکتور آنگشپروشنن اچ تی ام ال المنتن؟"
   },
   {
     "id": 48,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Regel",
     "question": "Wofür steht CSS?",
-    "antwort": "اشتایل شیت؟"
+    "antwort": "کاسکیدینگ اشتایل شیت؟"
   },
   {
     "id": 49,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Regel",
     "question": "Welche Aussage trifft zu?",
-    "antwort": "دو ج گلایشورت و اینلاین؟"
+    "antwort": "چهار تا بای گلایش ورته سی اس اس رگلن گلایشه اشپتسیفی تیت دس سلکتورز گیلت جنه دی وایتر آنتن ایم کوئل کد اشتات اینلاین سی اس اس انگابه میت ایمپورتان گیلت ایممر بای گلایش ورتیگن سلکتورن وردن نور دی ایگن شافتن اورنومن دی ایمپورتان انتهالتن سی اس اس رگلن دورفن ایم سلکتور نیشت مهر الس زوای ایدز انتهالتن؟"
   },
   {
     "id": 50,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Regel",
     "question": "Welche Aussage zu einfachen CSS Selektoren ist falsch?",
-    "antwort": "فو تو پرانتتز یدس علمنت؟"
+    "antwort": "فو الله المنته میت ایم کایند المنت فو وردن آنگشپروشن؟"
   },
   {
     "id": 51,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Selektoren, Kaskadierung",
     "question": "Welche der folgenden Aussagen zu Kombination von CSS Selektoren (E und F) ist falsch?",
-    "antwort": "ای ستاره اف آله علمنت إ دی عین علترنعلمنت؟"
+    "antwort": "ای ستار اف آلله المنته ای دی این الترن المنت فن دن المنتن اف زایند؟"
   },
   {
     "id": 52,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Selektoren, Kaskadierung",
     "question": "Wie kann ein Selektor für das folgende HTML-Element aussehen?\n<div id=\"main\" class=\"top\" data-c=\"7\">Hello World!</div>",
-    "antwort": "دیو نقطه تاپ ودیو دیتا سی تو پرانتز دو جوابه؟"
+    "antwort": "دوتا دیو دات توپ و دیو داتا سی؟"
   },
   {
     "id": 53,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Selektoren, Kaskadierung",
     "question": "Welcher der folgenden Selektoren spricht alle Listenelemente mit dem Inhalt „A“ aus dem Beispiel an?\n<ul>\n  <li>A</li>  <li>B</li>  <li>A</li>  <li>B</li>\n</ul>",
-    "antwort": "دوجوابه دو ان بعلاوه یک و چیلد یک و چیلد سه درازه؟"
+    "antwort": "دوتا لی ان تی اچ چایلد 2ان پلاس1 و لی ان تی اچ چایلد اود؟"
   },
   {
     "id": 54,
@@ -2787,7 +2789,7 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "CSS Selektoren, Kaskadierung",
     "question": "Welche Farbe hat der Hyperlink?\n<div id=\"main\"><p><a href=\"?\" id=\"hyper\">Link</a></p></div>\nCSS-Regeln:\ndiv#main p { color:red; }\n#hyper {color:green; }\n#main a {color:blue;}\n#main + #hyper  {color:orange;}",
-    "antwort": "جوابش آبی هستش؟"
+    "antwort": "بلو؟"
   },
   {
     "id": 56,
@@ -2801,7 +2803,7 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Box Modell",
     "question": "Wie kann eine Box mit einem Außenabstand von 20px links/rechts und 10px oben/unten in CSS festgelegt werden?",
-    "antwort": "دو جوابه ده پیکسل و بیست و ده بیست ده بیست؟"
+    "antwort": "دوتا دات باکس مارگین10پی ایکس 20پی ایکس و مارگین10پی ایکس 20پی ایکس 10پی ایکس 20پی ایکس؟"
   },
   {
     "id": 58,
@@ -2822,14 +2824,14 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Box Modell",
     "question": "Welche Schriftgröße hat der Text „Hallo Welt“?\n<body><div id=\"main\"><p>Hallo Welt</p></div></body>\nhtml, body { font-size:20px; }\nbody * { font-size:1.5em; }",
-    "antwort": "چهل و پنج پیکسل جواب درست هستش؟"
+    "antwort": "30پی ایکس؟"
   },
   {
     "id": 61,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Flexbox",
     "question": "Was sind Vorteile der Flexbox im Vergleich zu Float?",
-    "antwort": "سه تا درست غلط دورخ داره؟"
+    "antwort": "سه تا آلله المنته اینهال فن اینم کانتینر کونن دی کانتینر هوهه اورنمن آوش ون زی اورشیدلیش ویل اینهالت هابن فرتیگالس زنت ریرن اینهال فن اینم الترن المنت ایست موگلیش هوریزونتالس زنت ریرن مهرره المنته دی نبن ایناندر اشتهن ایست موگلیش؟"
   },
   {
     "id": 62,
@@ -2857,63 +2859,63 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Flexbox",
     "question": "Welchem Element wird die Eigenschaft align-items zugewiesen?",
-    "antwort": "اوم آله فلکس آیتمز این در لاوف ریشتونگ؟"
+    "antwort": "اینم فلکس کانتینر اوم آلله فلکس آیتمز این در لاوف ریشتونگ آوس زو ریختن؟"
   },
   {
     "id": 66,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Pseudoklassen, Pseudoelemente",
     "question": "Welche Pseudoklasse wird verwendet um Formular-Elemente zu stylen, die vom User nicht aktiviert bzw. ausgewählt werden können?",
-    "antwort": "دیزیبلد تنها جواب این سوال هستش؟"
+    "antwort": "دیز ابلد؟"
   },
   {
     "id": 67,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Pseudoklassen, Pseudoelemente",
     "question": "Welche Aussage zu Pseudoklassen in CSS ist korrekt?",
-    "antwort": "دو جواب ارموگلی؟اس گیبت و پسدوکلاس"
+    "antwort": "دوتا پسیودو کلاسن ارموگلیشن ایم المنت فور اینن بشتیمتن زوشتاند فرماتیرونگ زو گبن اس گیبت مهرره فوردیفینیرته پسیودو کلاسن دی وروندت وردن کونن؟"
   },
   {
     "id": 68,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Pseudoklassen, Pseudoelemente",
     "question": "Welcher Selektor wählt jede zweite Zeile in einer Tabelle aus, beginnend mit der ersten (1., 3., 5. usw)?",
-    "antwort": "دو جواب دو ان بعلاوه یک و اودد تو پرانتز؟"
+    "antwort": "دوتا تیبل تی آر ان تی اچ چایلد 2ان پلاس1 و تیبل تی آر ان تی اچ چایلد اود؟"
   },
   {
     "id": 69,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Pseudoklassen, Pseudoelemente",
     "question": "Wofür wird die Pseudoklasse „:target“ verwendet?",
-    "antwort": "ولشه دی ایدی پاسند زوم؟"
+    "antwort": "اس ویرد جنهس المنت فرماتیرت ولشس دی آید پاسند زوم یو آر ال فراگمنت بگینن میت هاش هات؟"
   },
   {
     "id": 70,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Pseudoklassen, Pseudoelemente",
     "question": "Mit welchen CSS Selektor wird das erste <p>-Element innerhalb eines Containers angesprochen, ungeachtet von anderen Elementen, die im Container vorhanden sind?",
-    "antwort": "هاشت کانتینر پی ان تی اچ اف تایپ یک؟"
+    "antwort": "هاشت کانتینر پی ان تی اچ اف تایپ 1؟"
   },
   {
     "id": 71,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Pseudoklassen, Pseudoelemente",
     "question": "Wie sieht der Selektor für ein Pseudoelement in CSS aus?",
-    "antwort": "بگینت میت دوخط دو دوپلپونک؟"
+    "antwort": "بگینت میت دوخط دوپلت کولن؟"
   },
   {
     "id": 72,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Mediaqueries",
     "question": "Welche Aussagen treffen auf CSS-Mediaqueries zu?",
-    "antwort": "سه تا درست میت غلط هست؟"
+    "antwort": "سه تا مدیا کوریز کونن ایگن شافتن دس بیلد شیرمز آبرفگن اوم زو بوبایلن گراتن الز آوش دسک توپ مونیتورن انتگن زو کامن مدیا کوریز کامبینیرن سی اس اس ایگن شافتن میت لوگیشن آبرفگن ناش ایگن شافتن فن گراتن مدیا رگلن لگن جه ناش هوهه برایته اودر اورینتیرونگ پورترایت اودر لند اسکیپ دس ویوپورت انترشیدلیشه سی اس اس ایگن شافتن فور گرات تایپن فست؟"
   },
   {
     "id": 73,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Mediaqueries",
     "question": "Welche der folgenden Angaben ist ein gültiges Mediaquery?",
-    "antwort": "سه تا درست دیوایس تایپ موبایل غلط؟"
+    "antwort": "سه تا مدیا اسکرین اند اورینتیشن لند اسکیپ مدیا اونلی اسکرین اند مین ویدت 800پی ایکس مدیا پرینت؟"
   },
   {
     "id": 74,
@@ -2927,48 +2929,48 @@
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Mediaqueries",
     "question": "Wie werden Mediaqueries nach dem „Mobile-First“ Ansatz festgelegt?",
-    "antwort": "آله سی اس اس آنگابن فور؟"
+    "antwort": "آلله سی اس اس انگابن فور کلاینه اسکرینز اشتهن زرشت اهنه مدیا کوری ایم سی اس اس گفولگت فن مدیا کوریز دی نور فور اسکرینز میت گروسرر بیلد شیرم برایته گلتن؟"
   },
   {
     "id": 76,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Mediaqueries",
     "question": "Welches Mediaquery wirkt bei einer Bildschirmbreite von 1024px und Bildschirmhöhe von 768px?",
-    "antwort": "مین ویت و لنداسکیپ دوجواب درست هستن؟"
+    "antwort": "دوتا مدیا اسکرین اند مین ویدت 800پی ایکس و مدیا اسکرین اند اورینتیشن لند اسکیپ؟"
   },
   {
     "id": 77,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Bootstrap",
     "question": "Was ist Bootstrap?",
-    "antwort": "سه درست انیم آخرشه غلط؟"
+    "antwort": "سه تا بوت اشتارپ ایست این سی اس اس فرام ورک فور شنلره اوند آینفاشره وب انت ویک لونگ بوت اشتارپ باینهالت اچ تی ام ال اوند سی اس اس باسیرته دیزاین تمپلیتز فور تیپوگرافی فرموله باتنز تابله ناویگاتسیون بیلدر اوند آپشناله جیوا اسکریپت پلUGINز بوت اشتارپ ارموگلیشت آینفاشس ارزویگن فن ریسپانسیف دیزاینز؟"
   },
   {
     "id": 78,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Bootstrap",
     "question": "Woraus besteht das Bootstrap Gridsystem?",
-    "antwort": "دو جواب اوس دوازده و دیفالت درستن؟"
+    "antwort": "دوتا آوس 12 اشپالتن آوس دیفالت بریک پوینتز بای وی5 ایکس اس اس ام ام دی ال جی ایکس ال ایکس ایکس ال؟"
   },
   {
     "id": 79,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Bootstrap",
     "question": "Mit welcher Klasse können Sie im Bootstrap Grid drei gleichgroße Elemente nebeneinander erstellen, die gemeinsam die Breite des Containers einnehmen?",
-    "antwort": "یه جوابه اونم کول چهار هستش حواست باشه اشتب نزنی؟"
+    "antwort": "دات کال 4؟"
   },
   {
     "id": 80,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Bootstrap",
     "question": "Welcher Tag erstellt einen Bootstrap-Button mit grünem Hintergrund?",
-    "antwort": "دو جوابه دوتاش ساکسس داره؟"
+    "antwort": "دوتا باتن کلاس باتن باتن ساکسس تکست و آ هرف # کلاس باتن باتن ساکسس تکست؟"
   },
   {
     "id": 81,
     "module": "HTML und CSS für Web Developer:innen",
     "topic": "Bootstrap",
     "question": "Mit welcher Bootstrap-Klasse werden erfolgreich validierte Formularfelder markiert?",
-    "antwort": "یه جوابه اونم ایس ولید هستش؟"
+    "antwort": "ایس والید؟"
   }
 ]
