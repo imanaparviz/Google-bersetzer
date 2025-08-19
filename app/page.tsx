@@ -82,9 +82,6 @@ export default function GoogleTranslate() {
               ))}
             </div>
           </button>
-          <div className="w-8 h-8 bg-purple-600 rounded-full flex items-center justify-center cursor-pointer">
-            <span className="text-white text-sm font-medium">J</span>
-          </div>
         </div>
       </header>
 
